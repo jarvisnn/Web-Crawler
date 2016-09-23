@@ -1,7 +1,7 @@
 CC = g++
 CFLAGS = -std=c++11 -g -Wall
 
-all: remove-output crawler run clean
+all: crawler run clean
 
 file-output: remove-output crawler run-o clean
 
