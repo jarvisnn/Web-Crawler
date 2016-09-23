@@ -1,0 +1,16 @@
+crawlDelay 500
+maxThreads 10
+depthLimit 2
+pagesLimit 10
+linkedSitesLimit 10
+startUrls 10
+http://www.straitstimes.com/
+http://www.nus.edu.sg
+https://www.gov.sg
+https://www.wikipedia.org
+http://www.singpost.com
+http://www.channelnewsasia.com
+http://www.fedex.com
+https://www.allscript.com
+http://www.shape.com.sg
+http://www.esq.sg
