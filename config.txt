@@ -1,8 +1,8 @@
 crawlDelay 500
 maxThreads 10
-depthLimit 2
+depthLimit 5
 pagesLimit 10
-linkedSitesLimit 10
+linkedSitesLimit 5
 startUrls 10
 http://www.straitstimes.com/
 http://www.nus.edu.sg

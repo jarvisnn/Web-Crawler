@@ -1,48 +1,39 @@
 ----------------------------------------------------------------------------
-Website: www.gov.sg
-Depth (distance from the starting pages): 0
-Number of Pages Discovered: 1
-Number of Pages Failed to Discover: 0
-Number of Linked Sites: 0
-Min. Response Time: 257.476ms
-Max. Response Time: 257.476ms
-Average Response Time: 257.476ms
-----------------------------------------------------------------------------
-Website: www.wikipedia.org
-Depth (distance from the starting pages): 0
-Number of Pages Discovered: 1
-Number of Pages Failed to Discover: 0
-Number of Linked Sites: 0
-Min. Response Time: 461.067ms
-Max. Response Time: 461.067ms
-Average Response Time: 461.067ms
-----------------------------------------------------------------------------
 Website: www.nus.edu.sg
 Depth (distance from the starting pages): 0
 Number of Pages Discovered: 10
 Number of Pages Failed to Discover: 0
 Number of Linked Sites: 49
-Min. Response Time: 7.45168ms
-Max. Response Time: 257.782ms
-Average Response Time: 63.556ms
+Min. Response Time: 7.85878ms
+Max. Response Time: 129.749ms
+Average Response Time: 24.5888ms
 ----------------------------------------------------------------------------
-Website: exchange.nus.edu.sg
+Website: news.nus.edu.sg
 Depth (distance from the starting pages): 1
 Number of Pages Discovered: 1
 Number of Pages Failed to Discover: 0
+Number of Linked Sites: 5
+Min. Response Time: 361.213ms
+Max. Response Time: 361.213ms
+Average Response Time: 361.213ms
+----------------------------------------------------------------------------
+Website: exchange.nus.edu.sg
+Depth (distance from the starting pages): 1
+Number of Pages Discovered: 3
+Number of Pages Failed to Discover: 0
 Number of Linked Sites: 0
-Min. Response Time: 17.5093ms
-Max. Response Time: 17.5093ms
-Average Response Time: 17.5093ms
+Min. Response Time: 9.12546ms
+Max. Response Time: 14.9694ms
+Average Response Time: 11.0782ms
 ----------------------------------------------------------------------------
 Website: www.lib.nus.edu.sg
 Depth (distance from the starting pages): 1
 Number of Pages Discovered: 1
 Number of Pages Failed to Discover: 0
-Number of Linked Sites: 0
-Min. Response Time: 20.5208ms
-Max. Response Time: 20.5208ms
-Average Response Time: 20.5208ms
+Number of Linked Sites: 1
+Min. Response Time: 21.4079ms
+Max. Response Time: 21.4079ms
+Average Response Time: 21.4079ms
 ----------------------------------------------------------------------------
 Website: myportal.nus.edu.sg
 Depth (distance from the starting pages): 1
@@ -58,1461 +49,678 @@ Depth (distance from the starting pages): 1
 Number of Pages Discovered: 1
 Number of Pages Failed to Discover: 0
 Number of Linked Sites: 0
-Min. Response Time: 9.56334ms
-Max. Response Time: 9.56334ms
-Average Response Time: 9.56334ms
+Min. Response Time: 17.5191ms
+Max. Response Time: 17.5191ms
+Average Response Time: 17.5191ms
 ----------------------------------------------------------------------------
-Website: president.nus.edu.sg
-Depth (distance from the starting pages): 1
-Number of Pages Discovered: 1
-Number of Pages Failed to Discover: 0
-Number of Linked Sites: 33
-Min. Response Time: 26.4574ms
-Max. Response Time: 26.4574ms
-Average Response Time: 26.4574ms
-----------------------------------------------------------------------------
-Website: news.nus.edu.sg
-Depth (distance from the starting pages): 1
-Number of Pages Discovered: 1
-Number of Pages Failed to Discover: 0
-Number of Linked Sites: 5
-Min. Response Time: 362.507ms
-Max. Response Time: 362.507ms
-Average Response Time: 362.507ms
-----------------------------------------------------------------------------
-Website: www.facebook.com
-Depth (distance from the starting pages): 1
-Number of Pages Discovered: 1
-Number of Pages Failed to Discover: 0
-Number of Linked Sites: 0
-Min. Response Time: 336.488ms
-Max. Response Time: 336.488ms
-Average Response Time: 336.488ms
-----------------------------------------------------------------------------
-Website: www.sph.nus.edu.sg
-Depth (distance from the starting pages): 1
-Number of Pages Discovered: 1
-Number of Pages Failed to Discover: 0
-Number of Linked Sites: 0
-Min. Response Time: 12.4032ms
-Max. Response Time: 12.4032ms
-Average Response Time: 12.4032ms
-----------------------------------------------------------------------------
-Website: www.channelnewsasia.com
-Depth (distance from the starting pages): 0
-Number of Pages Discovered: 10
-Number of Pages Failed to Discover: 0
-Number of Linked Sites: 18
-Min. Response Time: 27.639ms
-Max. Response Time: 245.145ms
-Average Response Time: 129.207ms
-----------------------------------------------------------------------------
-Website: nuscast.nus.edu.sg
-Depth (distance from the starting pages): 2
-Number of Pages Discovered: 2
-Number of Pages Failed to Discover: 0
-Number of Linked Sites: 8
-Min. Response Time: 27.5333ms
-Max. Response Time: 129.953ms
-Average Response Time: 78.7432ms
-----------------------------------------------------------------------------
-Website: www.nus.edu.sg
+Website: ivle.nus.edu.sg
 Depth (distance from the starting pages): 2
 Number of Pages Discovered: 10
 Number of Pages Failed to Discover: 0
-Number of Linked Sites: 49
-Min. Response Time: 6.99427ms
-Max. Response Time: 129.666ms
-Average Response Time: 27.9935ms
+Number of Linked Sites: 0
+Min. Response Time: 7.12881ms
+Max. Response Time: 26.2648ms
+Average Response Time: 12.1448ms
 ----------------------------------------------------------------------------
 Website: nus.edu.sg
 Depth (distance from the starting pages): 2
 Number of Pages Discovered: 1
 Number of Pages Failed to Discover: 0
 Number of Linked Sites: 36
-Min. Response Time: 139.289ms
-Max. Response Time: 139.289ms
-Average Response Time: 139.289ms
+Min. Response Time: 199.817ms
+Max. Response Time: 199.817ms
+Average Response Time: 199.817ms
 ----------------------------------------------------------------------------
-Website: www.straitstimes.com
+Website: www.channelnewsasia.com
 Depth (distance from the starting pages): 0
 Number of Pages Discovered: 10
 Number of Pages Failed to Discover: 0
-Number of Linked Sites: 38
-Min. Response Time: 25.0796ms
-Max. Response Time: 371.896ms
-Average Response Time: 162.112ms
+Number of Linked Sites: 20
+Min. Response Time: 19ms
+Max. Response Time: 151.632ms
+Average Response Time: 97.7356ms
 ----------------------------------------------------------------------------
-Website: www.fas.nus.edu.sg
+Website: libportal.nus.edu.sg
 Depth (distance from the starting pages): 2
-Number of Pages Discovered: 1
-Number of Pages Failed to Discover: 0
-Number of Linked Sites: 11
-Min. Response Time: 27.0386ms
-Max. Response Time: 27.0386ms
-Average Response Time: 27.0386ms
-----------------------------------------------------------------------------
-Website: www.bschool.nus.edu.sg
-Depth (distance from the starting pages): 2
-Number of Pages Discovered: 1
-Number of Pages Failed to Discover: 0
-Number of Linked Sites: 1
-Min. Response Time: 20.9409ms
-Max. Response Time: 20.9409ms
-Average Response Time: 20.9409ms
-----------------------------------------------------------------------------
-Website: www.esq.sg
-Depth (distance from the starting pages): 0
-Number of Pages Discovered: 10
-Number of Pages Failed to Discover: 0
-Number of Linked Sites: 4
-Min. Response Time: 26.5802ms
-Max. Response Time: 313.12ms
-Average Response Time: 191.379ms
-----------------------------------------------------------------------------
-Website: giving.nus.edu.sg
-Depth (distance from the starting pages): 1
-Number of Pages Discovered: 10
-Number of Pages Failed to Discover: 0
-Number of Linked Sites: 24
-Min. Response Time: 17.5562ms
-Max. Response Time: 298.638ms
-Average Response Time: 131.12ms
-----------------------------------------------------------------------------
-Website: www.singpost.com
-Depth (distance from the starting pages): 0
-Number of Pages Discovered: 10
-Number of Pages Failed to Discover: 0
-Number of Linked Sites: 17
-Min. Response Time: 48.1041ms
-Max. Response Time: 476.476ms
-Average Response Time: 185.499ms
-----------------------------------------------------------------------------
-Website: ivle.nus.edu.sg
-Depth (distance from the starting pages): 2
-Number of Pages Discovered: 1
+Number of Pages Discovered: 2
 Number of Pages Failed to Discover: 0
 Number of Linked Sites: 0
-Min. Response Time: 18.7533ms
-Max. Response Time: 18.7533ms
-Average Response Time: 18.7533ms
-----------------------------------------------------------------------------
-Website: www.dentistry.nus.edu.sg
-Depth (distance from the starting pages): 2
-Number of Pages Discovered: 3
-Number of Pages Failed to Discover: 0
-Number of Linked Sites: 9
-Min. Response Time: 16.7145ms
-Max. Response Time: 22.7631ms
-Average Response Time: 20.3231ms
-----------------------------------------------------------------------------
-Website: www.mozilla.org
-Depth (distance from the starting pages): 1
-Number of Pages Discovered: 1
-Number of Pages Failed to Discover: 0
-Number of Linked Sites: 0
-Min. Response Time: 51.8163ms
-Max. Response Time: 51.8163ms
-Average Response Time: 51.8163ms
-----------------------------------------------------------------------------
-Website: www.comp.nus.edu.sg
-Depth (distance from the starting pages): 2
-Number of Pages Discovered: 4
-Number of Pages Failed to Discover: 0
-Number of Linked Sites: 21
-Min. Response Time: 25.9537ms
-Max. Response Time: 71.8779ms
-Average Response Time: 47.2232ms
+Min. Response Time: 22.9119ms
+Max. Response Time: 124.331ms
+Average Response Time: 73.6213ms
 ----------------------------------------------------------------------------
 Website: www.google.com
 Depth (distance from the starting pages): 1
 Number of Pages Discovered: 1
 Number of Pages Failed to Discover: 0
 Number of Linked Sites: 1
-Min. Response Time: 59.3174ms
-Max. Response Time: 59.3174ms
-Average Response Time: 59.3174ms
+Min. Response Time: 33.3581ms
+Max. Response Time: 33.3581ms
+Average Response Time: 33.3581ms
 ----------------------------------------------------------------------------
 Website: windows.microsoft.com
 Depth (distance from the starting pages): 1
 Number of Pages Discovered: 1
 Number of Pages Failed to Discover: 0
-Number of Linked Sites: 0
-Min. Response Time: 61.1877ms
-Max. Response Time: 61.1877ms
-Average Response Time: 61.1877ms
+Number of Linked Sites: 1
+Min. Response Time: 53.1625ms
+Max. Response Time: 53.1625ms
+Average Response Time: 53.1625ms
 ----------------------------------------------------------------------------
-Website: www.sde.nus.edu.sg
-Depth (distance from the starting pages): 2
-Number of Pages Discovered: 5
+Website: www.esq.sg
+Depth (distance from the starting pages): 0
+Number of Pages Discovered: 10
 Number of Pages Failed to Discover: 0
-Number of Linked Sites: 25
-Min. Response Time: 13.6999ms
-Max. Response Time: 64.3707ms
-Average Response Time: 27.7448ms
+Number of Linked Sites: 5
+Min. Response Time: 26.989ms
+Max. Response Time: 180.235ms
+Average Response Time: 135.539ms
+----------------------------------------------------------------------------
+Website: www.mozilla.org
+Depth (distance from the starting pages): 1
+Number of Pages Discovered: 10
+Number of Pages Failed to Discover: 0
+Number of Linked Sites: 0
+Min. Response Time: 15.096ms
+Max. Response Time: 50.1399ms
+Average Response Time: 30.8079ms
+----------------------------------------------------------------------------
+Website: www.singpost.com
+Depth (distance from the starting pages): 0
+Number of Pages Discovered: 10
+Number of Pages Failed to Discover: 0
+Number of Linked Sites: 17
+Min. Response Time: 28.8282ms
+Max. Response Time: 333.682ms
+Average Response Time: 167.784ms
+----------------------------------------------------------------------------
+Website: go.microsoft.com
+Depth (distance from the starting pages): 2
+Number of Pages Discovered: 1
+Number of Pages Failed to Discover: 0
+Number of Linked Sites: 1
+Min. Response Time: 44.1617ms
+Max. Response Time: 44.1617ms
+Average Response Time: 44.1617ms
 ----------------------------------------------------------------------------
 Website: www.allscript.com
 Depth (distance from the starting pages): 0
 Number of Pages Discovered: 10
 Number of Pages Failed to Discover: 0
 Number of Linked Sites: 4
-Min. Response Time: 49.8914ms
-Max. Response Time: 508.255ms
-Average Response Time: 213.179ms
-----------------------------------------------------------------------------
-Website: www.linkedin.com
-Depth (distance from the starting pages): 1
-Number of Pages Discovered: 1
-Number of Pages Failed to Discover: 0
-Number of Linked Sites: 0
-Min. Response Time: 77.1862ms
-Max. Response Time: 77.1862ms
-Average Response Time: 77.1862ms
-----------------------------------------------------------------------------
-Website: www.youtube.com
-Depth (distance from the starting pages): 1
-Number of Pages Discovered: 1
-Number of Pages Failed to Discover: 0
-Number of Linked Sites: 0
-Min. Response Time: 34.3744ms
-Max. Response Time: 34.3744ms
-Average Response Time: 34.3744ms
-----------------------------------------------------------------------------
-Website: www1.channelnewsasia.com
-Depth (distance from the starting pages): 1
-Number of Pages Discovered: 1
-Number of Pages Failed to Discover: 0
-Number of Linked Sites: 0
-Min. Response Time: 365.332ms
-Max. Response Time: 365.332ms
-Average Response Time: 365.332ms
-----------------------------------------------------------------------------
-Website: twitter.com
-Depth (distance from the starting pages): 1
-Number of Pages Discovered: 1
-Number of Pages Failed to Discover: 0
-Number of Linked Sites: 0
-Min. Response Time: 377.617ms
-Max. Response Time: 377.617ms
-Average Response Time: 377.617ms
-----------------------------------------------------------------------------
-Website: nus.mediaspace.kaltura.com
-Depth (distance from the starting pages): 2
-Number of Pages Discovered: 1
-Number of Pages Failed to Discover: 0
-Number of Linked Sites: 0
-Min. Response Time: 862.284ms
-Max. Response Time: 862.284ms
-Average Response Time: 862.284ms
-----------------------------------------------------------------------------
-Website: beritaharian.sg
-Depth (distance from the starting pages): 1
-Number of Pages Discovered: 1
-Number of Pages Failed to Discover: 0
-Number of Linked Sites: 1
-Min. Response Time: 74.0007ms
-Max. Response Time: 74.0007ms
-Average Response Time: 74.0007ms
-----------------------------------------------------------------------------
-Website: www.hardwarezone.com.sg
-Depth (distance from the starting pages): 1
-Number of Pages Discovered: 1
-Number of Pages Failed to Discover: 0
-Number of Linked Sites: 0
-Min. Response Time: 140.73ms
-Max. Response Time: 140.73ms
-Average Response Time: 140.73ms
-----------------------------------------------------------------------------
-Website: mediaspace.nus.edu.sg
-Depth (distance from the starting pages): 2
-Number of Pages Discovered: 1
-Number of Pages Failed to Discover: 0
-Number of Linked Sites: 0
-Min. Response Time: 863.17ms
-Max. Response Time: 863.17ms
-Average Response Time: 863.17ms
-----------------------------------------------------------------------------
-Website: mypaper.sg
-Depth (distance from the starting pages): 1
-Number of Pages Discovered: 3
-Number of Pages Failed to Discover: 0
-Number of Linked Sites: 15
-Min. Response Time: 35.8352ms
-Max. Response Time: 194.373ms
-Average Response Time: 88.8652ms
-----------------------------------------------------------------------------
-Website: www.sph.com.sg
-Depth (distance from the starting pages): 1
-Number of Pages Discovered: 2
-Number of Pages Failed to Discover: 0
-Number of Linked Sites: 28
-Min. Response Time: 358.522ms
-Max. Response Time: 505.579ms
-Average Response Time: 432.051ms
-----------------------------------------------------------------------------
-Website: www.science.nus.edu.sg
-Depth (distance from the starting pages): 1
-Number of Pages Discovered: 4
-Number of Pages Failed to Discover: 0
-Number of Linked Sites: 20
-Min. Response Time: 441.85ms
-Max. Response Time: 819.094ms
-Average Response Time: 605.025ms
-----------------------------------------------------------------------------
-Website: www.apple.com
-Depth (distance from the starting pages): 1
-Number of Pages Discovered: 10
-Number of Pages Failed to Discover: 0
-Number of Linked Sites: 8
-Min. Response Time: 34.0145ms
-Max. Response Time: 352.718ms
-Average Response Time: 99.1414ms
-----------------------------------------------------------------------------
-Website: www.instagram.com
-Depth (distance from the starting pages): 1
-Number of Pages Discovered: 1
-Number of Pages Failed to Discover: 0
-Number of Linked Sites: 0
-Min. Response Time: 45.5903ms
-Max. Response Time: 45.5903ms
-Average Response Time: 45.5903ms
-----------------------------------------------------------------------------
-Website: www.fedex.com
-Depth (distance from the starting pages): 0
-Number of Pages Discovered: 10
-Number of Pages Failed to Discover: 0
-Number of Linked Sites: 23
-Min. Response Time: 277.694ms
-Max. Response Time: 402.066ms
-Average Response Time: 337.28ms
-----------------------------------------------------------------------------
-Website: inetapps.nus.edu.sg
-Depth (distance from the starting pages): 2
-Number of Pages Discovered: 0
-Number of Pages Failed to Discover: 1
-Number of Linked Sites: 0
-Min. Response Time: N.A
-Max. Response Time: N.A
-Average Response Time: N.A
-----------------------------------------------------------------------------
-Website: www.wanbao.com.sg
-Depth (distance from the starting pages): 1
-Number of Pages Discovered: 10
-Number of Pages Failed to Discover: 0
-Number of Linked Sites: 35
-Min. Response Time: 35.9515ms
-Max. Response Time: 165.99ms
-Average Response Time: 78.901ms
-----------------------------------------------------------------------------
-Website: www.shareinvestor.com
-Depth (distance from the starting pages): 1
-Number of Pages Discovered: 2
-Number of Pages Failed to Discover: 0
-Number of Linked Sites: 15
-Min. Response Time: 110.028ms
-Max. Response Time: 357.524ms
-Average Response Time: 233.776ms
-----------------------------------------------------------------------------
-Website: www.samplestore.com
-Depth (distance from the starting pages): 1
-Number of Pages Discovered: 1
-Number of Pages Failed to Discover: 0
-Number of Linked Sites: 0
-Min. Response Time: 123.228ms
-Max. Response Time: 123.228ms
-Average Response Time: 123.228ms
-----------------------------------------------------------------------------
-Website: www.asiaone.com
-Depth (distance from the starting pages): 1
-Number of Pages Discovered: 10
-Number of Pages Failed to Discover: 0
-Number of Linked Sites: 77
-Min. Response Time: 22.3641ms
-Max. Response Time: 367.419ms
-Average Response Time: 107.66ms
-----------------------------------------------------------------------------
-Website: www.mongooseasia.com
-Depth (distance from the starting pages): 1
-Number of Pages Discovered: 10
-Number of Pages Failed to Discover: 0
-Number of Linked Sites: 1
-Min. Response Time: 34.935ms
-Max. Response Time: 146.868ms
-Average Response Time: 66.1327ms
-----------------------------------------------------------------------------
-Website: www.ezy2ship.com
-Depth (distance from the starting pages): 1
-Number of Pages Discovered: 1
-Number of Pages Failed to Discover: 0
-Number of Linked Sites: 0
-Min. Response Time: 479.488ms
-Max. Response Time: 479.488ms
-Average Response Time: 479.488ms
-----------------------------------------------------------------------------
-Website: www.omy.sg
-Depth (distance from the starting pages): 1
-Number of Pages Discovered: 10
-Number of Pages Failed to Discover: 0
-Number of Linked Sites: 55
-Min. Response Time: 62.1066ms
-Max. Response Time: 133.828ms
-Average Response Time: 89.3367ms
-----------------------------------------------------------------------------
-Website: www.mypopstation.com
-Depth (distance from the starting pages): 1
-Number of Pages Discovered: 1
-Number of Pages Failed to Discover: 0
-Number of Linked Sites: 0
-Min. Response Time: 284.291ms
-Max. Response Time: 284.291ms
-Average Response Time: 284.291ms
-----------------------------------------------------------------------------
-Website: samplestore.com
-Depth (distance from the starting pages): 1
-Number of Pages Discovered: 1
-Number of Pages Failed to Discover: 0
-Number of Linked Sites: 0
-Min. Response Time: 107.616ms
-Max. Response Time: 107.616ms
-Average Response Time: 107.616ms
-----------------------------------------------------------------------------
-Website: www.vpost.com.sg
-Depth (distance from the starting pages): 1
-Number of Pages Discovered: 1
-Number of Pages Failed to Discover: 0
-Number of Linked Sites: 0
-Min. Response Time: 441.458ms
-Max. Response Time: 441.458ms
-Average Response Time: 441.458ms
-----------------------------------------------------------------------------
-Website: www.mysam.sg
-Depth (distance from the starting pages): 1
-Number of Pages Discovered: 1
-Number of Pages Failed to Discover: 0
-Number of Linked Sites: 0
-Min. Response Time: 375.407ms
-Max. Response Time: 375.407ms
-Average Response Time: 375.407ms
-----------------------------------------------------------------------------
-Website: www.ezycommerce.com
-Depth (distance from the starting pages): 1
-Number of Pages Discovered: 1
-Number of Pages Failed to Discover: 0
-Number of Linked Sites: 0
-Min. Response Time: 343.71ms
-Max. Response Time: 343.71ms
-Average Response Time: 343.71ms
-----------------------------------------------------------------------------
-Website: allscript.com
-Depth (distance from the starting pages): 1
-Number of Pages Discovered: 1
-Number of Pages Failed to Discover: 0
-Number of Linked Sites: 1
-Min. Response Time: 24.7656ms
-Max. Response Time: 24.7656ms
-Average Response Time: 24.7656ms
-----------------------------------------------------------------------------
-Website: www.couriersplease.com.au
-Depth (distance from the starting pages): 1
-Number of Pages Discovered: 1
-Number of Pages Failed to Discover: 0
-Number of Linked Sites: 0
-Min. Response Time: 333.193ms
-Max. Response Time: 333.193ms
-Average Response Time: 333.193ms
-----------------------------------------------------------------------------
-Website: epaper.mypaper.sg
-Depth (distance from the starting pages): 2
-Number of Pages Discovered: 1
-Number of Pages Failed to Discover: 0
-Number of Linked Sites: 0
-Min. Response Time: 44.3648ms
-Max. Response Time: 44.3648ms
-Average Response Time: 44.3648ms
-----------------------------------------------------------------------------
-Website: www.sphsubscription.com.sg
-Depth (distance from the starting pages): 2
-Number of Pages Discovered: 1
-Number of Pages Failed to Discover: 0
-Number of Linked Sites: 0
-Min. Response Time: 57.416ms
-Max. Response Time: 57.416ms
-Average Response Time: 57.416ms
-----------------------------------------------------------------------------
-Website: plus.google.com
-Depth (distance from the starting pages): 1
-Number of Pages Discovered: 1
-Number of Pages Failed to Discover: 0
-Number of Linked Sites: 0
-Min. Response Time: 226.856ms
-Max. Response Time: 226.856ms
-Average Response Time: 226.856ms
-----------------------------------------------------------------------------
-Website: www.famous.com.sg
-Depth (distance from the starting pages): 1
-Number of Pages Discovered: 1
-Number of Pages Failed to Discover: 0
-Number of Linked Sites: 5
-Min. Response Time: 604.981ms
-Max. Response Time: 604.981ms
-Average Response Time: 604.981ms
-----------------------------------------------------------------------------
-Website: www.beritaharian.sg
-Depth (distance from the starting pages): 2
-Number of Pages Discovered: 4
-Number of Pages Failed to Discover: 0
-Number of Linked Sites: 10
-Min. Response Time: 57.1666ms
-Max. Response Time: 249.592ms
-Average Response Time: 113.752ms
-----------------------------------------------------------------------------
-Website: www.sgcarmart.com
-Depth (distance from the starting pages): 1
-Number of Pages Discovered: 10
-Number of Pages Failed to Discover: 0
-Number of Linked Sites: 30
-Min. Response Time: 43.1223ms
-Max. Response Time: 314.37ms
-Average Response Time: 154.559ms
-----------------------------------------------------------------------------
-Website: www.lollipop.sg
-Depth (distance from the starting pages): 2
-Number of Pages Discovered: 2
-Number of Pages Failed to Discover: 0
-Number of Linked Sites: 9
-Min. Response Time: 42.0469ms
-Max. Response Time: 92.6061ms
-Average Response Time: 67.3265ms
-----------------------------------------------------------------------------
-Website: www.st701.com
-Depth (distance from the starting pages): 2
-Number of Pages Discovered: 2
-Number of Pages Failed to Discover: 0
-Number of Linked Sites: 1
-Min. Response Time: 29.8007ms
-Max. Response Time: 59.0728ms
-Average Response Time: 44.4367ms
+Min. Response Time: 42.3264ms
+Max. Response Time: 518.272ms
+Average Response Time: 202.781ms
 ----------------------------------------------------------------------------
 Website: www.google.com.sg
 Depth (distance from the starting pages): 2
 Number of Pages Discovered: 10
 Number of Pages Failed to Discover: 0
 Number of Linked Sites: 14
-Min. Response Time: 42.2705ms
-Max. Response Time: 168.391ms
-Average Response Time: 104.979ms
+Min. Response Time: 30.2792ms
+Max. Response Time: 204.858ms
+Average Response Time: 81.8741ms
 ----------------------------------------------------------------------------
-Website: www.asianewsnet.net
-Depth (distance from the starting pages): 2
-Number of Pages Discovered: 1
+Website: www.instagram.com
+Depth (distance from the starting pages): 1
+Number of Pages Discovered: 10
 Number of Pages Failed to Discover: 0
 Number of Linked Sites: 0
-Min. Response Time: 932.073ms
-Max. Response Time: 932.073ms
-Average Response Time: 932.073ms
+Min. Response Time: 24.6857ms
+Max. Response Time: 277.059ms
+Average Response Time: 57.5146ms
 ----------------------------------------------------------------------------
-Website: www.straitstimes.com
-Depth (distance from the starting pages): 2
+Website: www.mongooseasia.com
+Depth (distance from the starting pages): 1
 Number of Pages Discovered: 10
 Number of Pages Failed to Discover: 0
-Number of Linked Sites: 38
-Min. Response Time: 27.2063ms
-Max. Response Time: 195.912ms
-Average Response Time: 103.199ms
+Number of Linked Sites: 1
+Min. Response Time: 19.1397ms
+Max. Response Time: 153.959ms
+Average Response Time: 43.1552ms
 ----------------------------------------------------------------------------
-Website: www.stomp.com.sg
-Depth (distance from the starting pages): 2
-Number of Pages Discovered: 10
-Number of Pages Failed to Discover: 0
-Number of Linked Sites: 19
-Min. Response Time: 21.8245ms
-Max. Response Time: 168.682ms
-Average Response Time: 83.2352ms
-----------------------------------------------------------------------------
-Website: www.fastjobs.sg
-Depth (distance from the starting pages): 2
-Number of Pages Discovered: 10
-Number of Pages Failed to Discover: 0
-Number of Linked Sites: 7
-Min. Response Time: 66.4419ms
-Max. Response Time: 572.514ms
-Average Response Time: 427.707ms
-----------------------------------------------------------------------------
-Website: www.stjobs.sg
-Depth (distance from the starting pages): 2
-Number of Pages Discovered: 10
-Number of Pages Failed to Discover: 0
-Number of Linked Sites: 21
-Min. Response Time: 199.494ms
-Max. Response Time: 563.158ms
-Average Response Time: 386.505ms
-----------------------------------------------------------------------------
-Website: www.stclassifieds.sg
-Depth (distance from the starting pages): 2
-Number of Pages Discovered: 1
-Number of Pages Failed to Discover: 0
-Number of Linked Sites: 0
-Min. Response Time: 211.114ms
-Max. Response Time: 211.114ms
-Average Response Time: 211.114ms
-----------------------------------------------------------------------------
-Website: neon.science.nus.edu.sg
-Depth (distance from the starting pages): 2
-Number of Pages Discovered: 0
-Number of Pages Failed to Discover: 1
-Number of Linked Sites: 0
-Min. Response Time: N.A
-Max. Response Time: N.A
-Average Response Time: N.A
-----------------------------------------------------------------------------
-Website: www.chemistry.nus.edu.sg
-Depth (distance from the starting pages): 2
-Number of Pages Discovered: 10
-Number of Pages Failed to Discover: 0
-Number of Linked Sites: 19
-Min. Response Time: 9.40037ms
-Max. Response Time: 39.7428ms
-Average Response Time: 22.0835ms
-----------------------------------------------------------------------------
-Website: www.pharmacy.nus.edu.sg
-Depth (distance from the starting pages): 2
-Number of Pages Discovered: 10
-Number of Pages Failed to Discover: 0
-Number of Linked Sites: 22
-Min. Response Time: 18.1375ms
-Max. Response Time: 70.7423ms
-Average Response Time: 35.5108ms
-----------------------------------------------------------------------------
-Website: staff.science.nus.edu.sg
-Depth (distance from the starting pages): 2
-Number of Pages Discovered: 1
-Number of Pages Failed to Discover: 0
-Number of Linked Sites: 5
-Min. Response Time: 38.2623ms
-Max. Response Time: 38.2623ms
-Average Response Time: 38.2623ms
-----------------------------------------------------------------------------
-Website: www.shape.com.sg
+Website: www.gov.sg
 Depth (distance from the starting pages): 0
 Number of Pages Discovered: 10
 Number of Pages Failed to Discover: 0
-Number of Linked Sites: 14
-Min. Response Time: 49.7702ms
-Max. Response Time: 3393.88ms
-Average Response Time: 1156.13ms
+Number of Linked Sites: 0
+Min. Response Time: 240.821ms
+Max. Response Time: 762.227ms
+Average Response Time: 306.946ms
 ----------------------------------------------------------------------------
-Website: www.herworldplus.com
+Website: myrandomdesign.com
+Depth (distance from the starting pages): 1
+Number of Pages Discovered: 1
+Number of Pages Failed to Discover: 0
+Number of Linked Sites: 0
+Min. Response Time: 459.709ms
+Max. Response Time: 459.709ms
+Average Response Time: 459.709ms
+----------------------------------------------------------------------------
+Website: www.ezy2ship.com
+Depth (distance from the starting pages): 1
+Number of Pages Discovered: 1
+Number of Pages Failed to Discover: 0
+Number of Linked Sites: 0
+Min. Response Time: 481.616ms
+Max. Response Time: 481.616ms
+Average Response Time: 481.616ms
+----------------------------------------------------------------------------
+Website: www.fedex.com
+Depth (distance from the starting pages): 0
+Number of Pages Discovered: 10
+Number of Pages Failed to Discover: 0
+Number of Linked Sites: 23
+Min. Response Time: 313.217ms
+Max. Response Time: 483.955ms
+Average Response Time: 354.865ms
+----------------------------------------------------------------------------
+Website: www.wikipedia.org
+Depth (distance from the starting pages): 0
+Number of Pages Discovered: 10
+Number of Pages Failed to Discover: 0
+Number of Linked Sites: 0
+Min. Response Time: 359.077ms
+Max. Response Time: 415.61ms
+Average Response Time: 379.871ms
+----------------------------------------------------------------------------
+Website: www.vpost.com.sg
+Depth (distance from the starting pages): 1
+Number of Pages Discovered: 1
+Number of Pages Failed to Discover: 0
+Number of Linked Sites: 0
+Min. Response Time: 310.065ms
+Max. Response Time: 310.065ms
+Average Response Time: 310.065ms
+----------------------------------------------------------------------------
+Website: www.microsoft.com
+Depth (distance from the starting pages): 3
+Number of Pages Discovered: 4
+Number of Pages Failed to Discover: 0
+Number of Linked Sites: 1
+Min. Response Time: 55.3239ms
+Max. Response Time: 300.662ms
+Average Response Time: 176.161ms
+----------------------------------------------------------------------------
+Website: www.facebook.com
 Depth (distance from the starting pages): 1
 Number of Pages Discovered: 10
 Number of Pages Failed to Discover: 0
-Number of Linked Sites: 29
-Min. Response Time: 70.0078ms
-Max. Response Time: 1464.26ms
-Average Response Time: 890.936ms
-----------------------------------------------------------------------------
-Website: chemistry.nus.edu.sg
-Depth (distance from the starting pages): 2
-Number of Pages Discovered: 1
-Number of Pages Failed to Discover: 0
-Number of Linked Sites: 18
-Min. Response Time: 14.3562ms
-Max. Response Time: 14.3562ms
-Average Response Time: 14.3562ms
-----------------------------------------------------------------------------
-Website: www.physics.nus.edu.sg
-Depth (distance from the starting pages): 2
-Number of Pages Discovered: 1
-Number of Pages Failed to Discover: 0
 Number of Linked Sites: 0
-Min. Response Time: 53.2078ms
-Max. Response Time: 53.2078ms
-Average Response Time: 53.2078ms
+Min. Response Time: 247.047ms
+Max. Response Time: 396.237ms
+Average Response Time: 274.374ms
 ----------------------------------------------------------------------------
-Website: support.apple.com
-Depth (distance from the starting pages): 2
-Number of Pages Discovered: 1
-Number of Pages Failed to Discover: 0
-Number of Linked Sites: 0
-Min. Response Time: 70.6332ms
-Max. Response Time: 70.6332ms
-Average Response Time: 70.6332ms
-----------------------------------------------------------------------------
-Website: ww1.math.nus.edu.sg
-Depth (distance from the starting pages): 2
-Number of Pages Discovered: 10
-Number of Pages Failed to Discover: 0
-Number of Linked Sites: 19
-Min. Response Time: 9.07146ms
-Max. Response Time: 86.556ms
-Average Response Time: 37.2504ms
-----------------------------------------------------------------------------
-Website: www.dbs.nus.edu.sg
-Depth (distance from the starting pages): 2
-Number of Pages Discovered: 6
-Number of Pages Failed to Discover: 0
-Number of Linked Sites: 30
-Min. Response Time: 13.239ms
-Max. Response Time: 1117.34ms
-Average Response Time: 213.722ms
-----------------------------------------------------------------------------
-Website: applemusic.com
-Depth (distance from the starting pages): 2
+Website: allscript.com
+Depth (distance from the starting pages): 1
 Number of Pages Discovered: 1
 Number of Pages Failed to Discover: 0
 Number of Linked Sites: 1
-Min. Response Time: 400.244ms
-Max. Response Time: 400.244ms
-Average Response Time: 400.244ms
+Min. Response Time: 22.063ms
+Max. Response Time: 22.063ms
+Average Response Time: 22.063ms
 ----------------------------------------------------------------------------
-Website: itunes.apple.com
-Depth (distance from the starting pages): 2
-Number of Pages Discovered: 1
+Website: maps.google.com.sg
+Depth (distance from the starting pages): 3
+Number of Pages Discovered: 2
 Number of Pages Failed to Discover: 0
-Number of Linked Sites: 0
-Min. Response Time: 232.756ms
-Max. Response Time: 232.756ms
-Average Response Time: 232.756ms
+Number of Linked Sites: 1
+Min. Response Time: 19.5925ms
+Max. Response Time: 27.1803ms
+Average Response Time: 23.3864ms
 ----------------------------------------------------------------------------
-Website: appleid.apple.com
-Depth (distance from the starting pages): 2
-Number of Pages Discovered: 1
-Number of Pages Failed to Discover: 0
-Number of Linked Sites: 0
-Min. Response Time: 367.478ms
-Max. Response Time: 367.478ms
-Average Response Time: 367.478ms
-----------------------------------------------------------------------------
-Website: www.icloud.com
-Depth (distance from the starting pages): 2
-Number of Pages Discovered: 1
-Number of Pages Failed to Discover: 0
-Number of Linked Sites: 0
-Min. Response Time: 526.858ms
-Max. Response Time: 526.858ms
-Average Response Time: 526.858ms
-----------------------------------------------------------------------------
-Website: www.sphmagazines.com.sg
-Depth (distance from the starting pages): 2
-Number of Pages Discovered: 10
-Number of Pages Failed to Discover: 0
-Number of Linked Sites: 25
-Min. Response Time: 123.194ms
-Max. Response Time: 3160.64ms
-Average Response Time: 751.04ms
-----------------------------------------------------------------------------
-Website: locate.apple.com
-Depth (distance from the starting pages): 2
-Number of Pages Discovered: 1
-Number of Pages Failed to Discover: 0
-Number of Linked Sites: 0
-Min. Response Time: 386.927ms
-Max. Response Time: 386.927ms
-Average Response Time: 386.927ms
-----------------------------------------------------------------------------
-Website: investor.apple.com
-Depth (distance from the starting pages): 2
-Number of Pages Discovered: 1
-Number of Pages Failed to Discover: 0
-Number of Linked Sites: 8
-Min. Response Time: 635.949ms
-Max. Response Time: 635.949ms
-Average Response Time: 635.949ms
-----------------------------------------------------------------------------
-Website: www.stcars.sg
-Depth (distance from the starting pages): 2
-Number of Pages Discovered: 10
-Number of Pages Failed to Discover: 0
-Number of Linked Sites: 9
-Min. Response Time: 135.004ms
-Max. Response Time: 1116.58ms
-Average Response Time: 330.104ms
-----------------------------------------------------------------------------
-Website: beta.apple.com
-Depth (distance from the starting pages): 2
-Number of Pages Discovered: 1
-Number of Pages Failed to Discover: 0
-Number of Linked Sites: 0
-Min. Response Time: 352.791ms
-Max. Response Time: 352.791ms
-Average Response Time: 352.791ms
-----------------------------------------------------------------------------
-Website: getrewards.fedex.com
+Website: plus.google.com
 Depth (distance from the starting pages): 1
-Number of Pages Discovered: 1
+Number of Pages Discovered: 2
 Number of Pages Failed to Discover: 0
-Number of Linked Sites: 0
-Min. Response Time: 465.358ms
-Max. Response Time: 465.358ms
-Average Response Time: 465.358ms
+Number of Linked Sites: 1
+Min. Response Time: 193.092ms
+Max. Response Time: 223.827ms
+Average Response Time: 208.459ms
 ----------------------------------------------------------------------------
-Website: events.channelnewsasia.com
+Website: www.samplestore.com
 Depth (distance from the starting pages): 1
 Number of Pages Discovered: 10
 Number of Pages Failed to Discover: 0
-Number of Linked Sites: 6
-Min. Response Time: 933.309ms
-Max. Response Time: 1339.01ms
-Average Response Time: 1084.39ms
+Number of Linked Sites: 0
+Min. Response Time: 130.516ms
+Max. Response Time: 278.708ms
+Average Response Time: 159.622ms
 ----------------------------------------------------------------------------
-Website: www.fedexfreight.fedex.com
+Website: play.google.com
+Depth (distance from the starting pages): 3
+Number of Pages Discovered: 2
+Number of Pages Failed to Discover: 0
+Number of Linked Sites: 0
+Min. Response Time: 40.3088ms
+Max. Response Time: 42.5766ms
+Average Response Time: 41.4427ms
+----------------------------------------------------------------------------
+Website: www1.channelnewsasia.com
 Depth (distance from the starting pages): 1
+Number of Pages Discovered: 10
+Number of Pages Failed to Discover: 0
+Number of Linked Sites: 0
+Min. Response Time: 349.76ms
+Max. Response Time: 420.096ms
+Average Response Time: 373.651ms
+----------------------------------------------------------------------------
+Website: www.apple.com
+Depth (distance from the starting pages): 1
+Number of Pages Discovered: 10
+Number of Pages Failed to Discover: 0
+Number of Linked Sites: 10
+Min. Response Time: 19.8409ms
+Max. Response Time: 1125.24ms
+Average Response Time: 385.658ms
+----------------------------------------------------------------------------
+Website: www.youtube.com
+Depth (distance from the starting pages): 3
+Number of Pages Discovered: 2
+Number of Pages Failed to Discover: 0
+Number of Linked Sites: 2
+Min. Response Time: 37.0796ms
+Max. Response Time: 268.847ms
+Average Response Time: 152.963ms
+----------------------------------------------------------------------------
+Website: www.mypopstation.com
+Depth (distance from the starting pages): 1
+Number of Pages Discovered: 10
+Number of Pages Failed to Discover: 0
+Number of Linked Sites: 0
+Min. Response Time: 63.9851ms
+Max. Response Time: 330.371ms
+Average Response Time: 150.095ms
+----------------------------------------------------------------------------
+Website: news.google.com.sg
+Depth (distance from the starting pages): 3
 Number of Pages Discovered: 1
 Number of Pages Failed to Discover: 0
 Number of Linked Sites: 0
-Min. Response Time: 477.292ms
-Max. Response Time: 477.292ms
-Average Response Time: 477.292ms
+Min. Response Time: 350.003ms
+Max. Response Time: 350.003ms
+Average Response Time: 350.003ms
 ----------------------------------------------------------------------------
-Website: smallbusiness.fedex.com
-Depth (distance from the starting pages): 1
+Website: mail.google.com
+Depth (distance from the starting pages): 3
 Number of Pages Discovered: 1
 Number of Pages Failed to Discover: 0
 Number of Linked Sites: 0
-Min. Response Time: 477.713ms
-Max. Response Time: 477.713ms
-Average Response Time: 477.713ms
+Min. Response Time: 375.414ms
+Max. Response Time: 375.414ms
+Average Response Time: 375.414ms
+----------------------------------------------------------------------------
+Website: twitter.com
+Depth (distance from the starting pages): 1
+Number of Pages Discovered: 10
+Number of Pages Failed to Discover: 0
+Number of Linked Sites: 0
+Min. Response Time: 345.816ms
+Max. Response Time: 383.166ms
+Average Response Time: 361.7ms
 ----------------------------------------------------------------------------
 Website: emanifest.ftn.fedex.com
 Depth (distance from the starting pages): 1
 Number of Pages Discovered: 1
 Number of Pages Failed to Discover: 0
 Number of Linked Sites: 0
-Min. Response Time: 722.942ms
-Max. Response Time: 722.942ms
-Average Response Time: 722.942ms
+Min. Response Time: 713.334ms
+Max. Response Time: 713.334ms
+Average Response Time: 713.334ms
 ----------------------------------------------------------------------------
-Website: blog.van.fedex.com
-Depth (distance from the starting pages): 1
+Website: www.google.com.sg:443
+Depth (distance from the starting pages): 4
+Number of Pages Discovered: 0
+Number of Pages Failed to Discover: 1
+Number of Linked Sites: 0
+Min. Response Time: N.A
+Max. Response Time: N.A
+Average Response Time: N.A
+----------------------------------------------------------------------------
+Website: www.straitstimes.com
+Depth (distance from the starting pages): 0
+Number of Pages Discovered: 10
+Number of Pages Failed to Discover: 0
+Number of Linked Sites: 39
+Min. Response Time: 59.7544ms
+Max. Response Time: 2444.77ms
+Average Response Time: 594.035ms
+----------------------------------------------------------------------------
+Website: support.google.com
+Depth (distance from the starting pages): 2
 Number of Pages Discovered: 1
 Number of Pages Failed to Discover: 0
 Number of Linked Sites: 0
-Min. Response Time: 502.033ms
-Max. Response Time: 502.033ms
-Average Response Time: 502.033ms
-----------------------------------------------------------------------------
-Website: news.van.fedex.com
-Depth (distance from the starting pages): 1
-Number of Pages Discovered: 1
-Number of Pages Failed to Discover: 0
-Number of Linked Sites: 0
-Min. Response Time: 527.252ms
-Max. Response Time: 527.252ms
-Average Response Time: 527.252ms
+Min. Response Time: 57.241ms
+Max. Response Time: 57.241ms
+Average Response Time: 57.241ms
 ----------------------------------------------------------------------------
 Website: truckload.fedex.com
 Depth (distance from the starting pages): 1
 Number of Pages Discovered: 1
 Number of Pages Failed to Discover: 0
 Number of Linked Sites: 17
-Min. Response Time: 1268.43ms
-Max. Response Time: 1268.43ms
-Average Response Time: 1268.43ms
-----------------------------------------------------------------------------
-Website: sphauth.asiaone.com
-Depth (distance from the starting pages): 2
-Number of Pages Discovered: 0
-Number of Pages Failed to Discover: 1
-Number of Linked Sites: 0
-Min. Response Time: N.A
-Max. Response Time: N.A
-Average Response Time: N.A
-----------------------------------------------------------------------------
-Website: project.omy.sg
-Depth (distance from the starting pages): 2
-Number of Pages Discovered: 1
-Number of Pages Failed to Discover: 0
-Number of Linked Sites: 0
-Min. Response Time: 59.9478ms
-Max. Response Time: 59.9478ms
-Average Response Time: 59.9478ms
-----------------------------------------------------------------------------
-Website: epaper.straitstimes.com
-Depth (distance from the starting pages): 2
-Number of Pages Discovered: 0
-Number of Pages Failed to Discover: 1
-Number of Linked Sites: 0
-Min. Response Time: N.A
-Max. Response Time: N.A
-Average Response Time: N.A
-----------------------------------------------------------------------------
-Website: sphreg.asiaone.com
-Depth (distance from the starting pages): 2
-Number of Pages Discovered: 1
-Number of Pages Failed to Discover: 0
-Number of Linked Sites: 1
-Min. Response Time: 61.5703ms
-Max. Response Time: 61.5703ms
-Average Response Time: 61.5703ms
-----------------------------------------------------------------------------
-Website: epaper.zaobao.com.sg
-Depth (distance from the starting pages): 2
-Number of Pages Discovered: 1
-Number of Pages Failed to Discover: 0
-Number of Linked Sites: 1
-Min. Response Time: 19.7605ms
-Max. Response Time: 19.7605ms
-Average Response Time: 19.7605ms
-----------------------------------------------------------------------------
-Website: wanbao.com.sg
-Depth (distance from the starting pages): 2
-Number of Pages Discovered: 1
-Number of Pages Failed to Discover: 0
-Number of Linked Sites: 1
-Min. Response Time: 25.4117ms
-Max. Response Time: 25.4117ms
-Average Response Time: 25.4117ms
-----------------------------------------------------------------------------
-Website: www.stsubscribe.com.sg
-Depth (distance from the starting pages): 2
-Number of Pages Discovered: 1
-Number of Pages Failed to Discover: 0
-Number of Linked Sites: 1
-Min. Response Time: 27.2708ms
-Max. Response Time: 27.2708ms
-Average Response Time: 27.2708ms
-----------------------------------------------------------------------------
-Website: blog.omy.sg
-Depth (distance from the starting pages): 2
-Number of Pages Discovered: 1
-Number of Pages Failed to Discover: 0
-Number of Linked Sites: 0
-Min. Response Time: 34.8442ms
-Max. Response Time: 34.8442ms
-Average Response Time: 34.8442ms
+Min. Response Time: 1214ms
+Max. Response Time: 1214ms
+Average Response Time: 1214ms
 ----------------------------------------------------------------------------
 Website: ftn.fedex.com
 Depth (distance from the starting pages): 1
 Number of Pages Discovered: 1
 Number of Pages Failed to Discover: 0
 Number of Linked Sites: 1
-Min. Response Time: 1340.56ms
-Max. Response Time: 1340.56ms
-Average Response Time: 1340.56ms
+Min. Response Time: 1210.52ms
+Max. Response Time: 1210.52ms
+Average Response Time: 1210.52ms
 ----------------------------------------------------------------------------
-Website: www.listedcompany.com
+Website: applemusic.com
+Depth (distance from the starting pages): 2
+Number of Pages Discovered: 1
+Number of Pages Failed to Discover: 0
+Number of Linked Sites: 1
+Min. Response Time: 381.013ms
+Max. Response Time: 381.013ms
+Average Response Time: 381.013ms
+----------------------------------------------------------------------------
+Website: support.apple.com
+Depth (distance from the starting pages): 2
+Number of Pages Discovered: 10
+Number of Pages Failed to Discover: 0
+Number of Linked Sites: 0
+Min. Response Time: 43.6297ms
+Max. Response Time: 67.6728ms
+Average Response Time: 54.5436ms
+----------------------------------------------------------------------------
+Website: itunes.apple.com
 Depth (distance from the starting pages): 2
 Number of Pages Discovered: 3
 Number of Pages Failed to Discover: 0
-Number of Linked Sites: 1
-Min. Response Time: 37.2833ms
-Max. Response Time: 88.9247ms
-Average Response Time: 55.803ms
+Number of Linked Sites: 0
+Min. Response Time: 317.613ms
+Max. Response Time: 330.956ms
+Average Response Time: 325.654ms
 ----------------------------------------------------------------------------
-Website: ir.listedcompany.com
-Depth (distance from the starting pages): 2
+Website: www.sph.com.sg
+Depth (distance from the starting pages): 1
 Number of Pages Discovered: 2
 Number of Pages Failed to Discover: 0
-Number of Linked Sites: 0
-Min. Response Time: 32.4528ms
-Max. Response Time: 36.5088ms
-Average Response Time: 34.4808ms
+Number of Linked Sites: 31
+Min. Response Time: 329.302ms
+Max. Response Time: 459.009ms
+Average Response Time: 394.155ms
 ----------------------------------------------------------------------------
-Website: www.investingnote.com
-Depth (distance from the starting pages): 2
-Number of Pages Discovered: 1
-Number of Pages Failed to Discover: 0
-Number of Linked Sites: 1
-Min. Response Time: 369.57ms
-Max. Response Time: 369.57ms
-Average Response Time: 369.57ms
-----------------------------------------------------------------------------
-Website: www.omigo.com.sg
+Website: beritaharian.sg
 Depth (distance from the starting pages): 1
-Number of Pages Discovered: 10
-Number of Pages Failed to Discover: 0
-Number of Linked Sites: 2
-Min. Response Time: 17.8831ms
-Max. Response Time: 3138.18ms
-Average Response Time: 1109.84ms
-----------------------------------------------------------------------------
-Website: agvgroup.listedcompany.com
-Depth (distance from the starting pages): 2
-Number of Pages Discovered: 1
-Number of Pages Failed to Discover: 0
-Number of Linked Sites: 2
-Min. Response Time: 355.037ms
-Max. Response Time: 355.037ms
-Average Response Time: 355.037ms
-----------------------------------------------------------------------------
-Website: www.stproperty.sg
-Depth (distance from the starting pages): 2
-Number of Pages Discovered: 10
-Number of Pages Failed to Discover: 0
-Number of Linked Sites: 19
-Min. Response Time: 93.3988ms
-Max. Response Time: 2106.14ms
-Average Response Time: 909.028ms
-----------------------------------------------------------------------------
-Website: fonts.googleapis.com
-Depth (distance from the starting pages): 2
-Number of Pages Discovered: 1
-Number of Pages Failed to Discover: 0
-Number of Linked Sites: 0
-Min. Response Time: 27.1396ms
-Max. Response Time: 27.1396ms
-Average Response Time: 27.1396ms
-----------------------------------------------------------------------------
-Website: acc-reg.sphdigital.com
-Depth (distance from the starting pages): 2
-Number of Pages Discovered: 1
-Number of Pages Failed to Discover: 0
-Number of Linked Sites: 0
-Min. Response Time: 41.928ms
-Max. Response Time: 41.928ms
-Average Response Time: 41.928ms
-----------------------------------------------------------------------------
-Website: www.businesstimes.com.sg
-Depth (distance from the starting pages): 2
-Number of Pages Discovered: 10
-Number of Pages Failed to Discover: 0
-Number of Linked Sites: 16
-Min. Response Time: 77.0485ms
-Max. Response Time: 2522.69ms
-Average Response Time: 1070.21ms
-----------------------------------------------------------------------------
-Website: www.trezo.sg
-Depth (distance from the starting pages): 2
-Number of Pages Discovered: 10
-Number of Pages Failed to Discover: 0
-Number of Linked Sites: 6
-Min. Response Time: 694.515ms
-Max. Response Time: 1613.01ms
-Average Response Time: 1054.04ms
-----------------------------------------------------------------------------
-Website: sph.listedcompany.com
-Depth (distance from the starting pages): 2
-Number of Pages Discovered: 4
-Number of Pages Failed to Discover: 0
-Number of Linked Sites: 32
-Min. Response Time: 285.395ms
-Max. Response Time: 527.723ms
-Average Response Time: 370.123ms
-----------------------------------------------------------------------------
-Website: soshiok.com
-Depth (distance from the starting pages): 2
 Number of Pages Discovered: 1
 Number of Pages Failed to Discover: 0
 Number of Linked Sites: 1
-Min. Response Time: 34.2778ms
-Max. Response Time: 34.2778ms
-Average Response Time: 34.2778ms
+Min. Response Time: 27.591ms
+Max. Response Time: 27.591ms
+Average Response Time: 27.591ms
 ----------------------------------------------------------------------------
-Website: forum.shareinvestor.com
-Depth (distance from the starting pages): 2
-Number of Pages Discovered: 10
-Number of Pages Failed to Discover: 0
-Number of Linked Sites: 1
-Min. Response Time: 35.6507ms
-Max. Response Time: 359.552ms
-Average Response Time: 204.962ms
-----------------------------------------------------------------------------
-Website: news.asiaone.com
-Depth (distance from the starting pages): 2
+Website: www.hardwarezone.com.sg
+Depth (distance from the starting pages): 1
 Number of Pages Discovered: 1
 Number of Pages Failed to Discover: 0
 Number of Linked Sites: 0
-Min. Response Time: 166.728ms
-Max. Response Time: 166.728ms
-Average Response Time: 166.728ms
-----------------------------------------------------------------------------
-Website: transport.asiaone.com
-Depth (distance from the starting pages): 2
-Number of Pages Discovered: 10
-Number of Pages Failed to Discover: 0
-Number of Linked Sites: 15
-Min. Response Time: 37.5192ms
-Max. Response Time: 847.375ms
-Average Response Time: 138.318ms
-----------------------------------------------------------------------------
-Website: rhpetrogas.listedcompany.com
-Depth (distance from the starting pages): 2
-Number of Pages Discovered: 6
-Number of Pages Failed to Discover: 0
-Number of Linked Sites: 6
-Min. Response Time: 249.754ms
-Max. Response Time: 506.026ms
-Average Response Time: 380.106ms
-----------------------------------------------------------------------------
-Website: blog.shareinvestor.com
-Depth (distance from the starting pages): 2
-Number of Pages Discovered: 10
-Number of Pages Failed to Discover: 0
-Number of Linked Sites: 3
-Min. Response Time: 19.9879ms
-Max. Response Time: 455.682ms
-Average Response Time: 305.888ms
-----------------------------------------------------------------------------
-Website: news.omy.sg
-Depth (distance from the starting pages): 2
-Number of Pages Discovered: 1
-Number of Pages Failed to Discover: 0
-Number of Linked Sites: 0
-Min. Response Time: 49.5665ms
-Max. Response Time: 49.5665ms
-Average Response Time: 49.5665ms
-----------------------------------------------------------------------------
-Website: megachem.listedcompany.com
-Depth (distance from the starting pages): 2
-Number of Pages Discovered: 9
-Number of Pages Failed to Discover: 0
-Number of Linked Sites: 11
-Min. Response Time: 106.234ms
-Max. Response Time: 682.211ms
-Average Response Time: 282.171ms
-----------------------------------------------------------------------------
-Website: showbiz.omy.sg
-Depth (distance from the starting pages): 2
-Number of Pages Discovered: 1
-Number of Pages Failed to Discover: 0
-Number of Linked Sites: 0
-Min. Response Time: 36.0467ms
-Max. Response Time: 36.0467ms
-Average Response Time: 36.0467ms
-----------------------------------------------------------------------------
-Website: sgeawards.omy.sg
-Depth (distance from the starting pages): 2
-Number of Pages Discovered: 1
-Number of Pages Failed to Discover: 0
-Number of Linked Sites: 0
-Min. Response Time: 29.0374ms
-Max. Response Time: 29.0374ms
-Average Response Time: 29.0374ms
-----------------------------------------------------------------------------
-Website: health.asiaone.com
-Depth (distance from the starting pages): 2
-Number of Pages Discovered: 5
-Number of Pages Failed to Discover: 0
-Number of Linked Sites: 13
-Min. Response Time: 21.822ms
-Max. Response Time: 1005.81ms
-Average Response Time: 346.661ms
-----------------------------------------------------------------------------
-Website: digital.asiaone.com
-Depth (distance from the starting pages): 2
-Number of Pages Discovered: 3
-Number of Pages Failed to Discover: 0
-Number of Linked Sites: 10
-Min. Response Time: 47.9297ms
-Max. Response Time: 1202.61ms
-Average Response Time: 685.248ms
-----------------------------------------------------------------------------
-Website: yzone.omy.sg
-Depth (distance from the starting pages): 2
-Number of Pages Discovered: 1
-Number of Pages Failed to Discover: 0
-Number of Linked Sites: 0
-Min. Response Time: 40.1867ms
-Max. Response Time: 40.1867ms
-Average Response Time: 40.1867ms
-----------------------------------------------------------------------------
-Website: blogs.omy.sg
-Depth (distance from the starting pages): 2
-Number of Pages Discovered: 1
-Number of Pages Failed to Discover: 0
-Number of Linked Sites: 0
-Min. Response Time: 92.5824ms
-Max. Response Time: 92.5824ms
-Average Response Time: 92.5824ms
-----------------------------------------------------------------------------
-Website: sgblogawards.omy.sg
-Depth (distance from the starting pages): 2
-Number of Pages Discovered: 3
-Number of Pages Failed to Discover: 0
-Number of Linked Sites: 12
-Min. Response Time: 38.7195ms
-Max. Response Time: 51.9462ms
-Average Response Time: 44.0059ms
-----------------------------------------------------------------------------
-Website: travel.asiaone.com
-Depth (distance from the starting pages): 2
-Number of Pages Discovered: 5
-Number of Pages Failed to Discover: 0
-Number of Linked Sites: 11
-Min. Response Time: 18.5125ms
-Max. Response Time: 1244.6ms
-Average Response Time: 587.422ms
+Min. Response Time: 85.9723ms
+Max. Response Time: 85.9723ms
+Average Response Time: 85.9723ms
 ----------------------------------------------------------------------------
 Website: eshop.mongooseasia.com
 Depth (distance from the starting pages): 2
 Number of Pages Discovered: 10
 Number of Pages Failed to Discover: 0
 Number of Linked Sites: 1
-Min. Response Time: 185.681ms
-Max. Response Time: 465.085ms
-Average Response Time: 315.846ms
+Min. Response Time: 173.015ms
+Max. Response Time: 393.903ms
+Average Response Time: 256.952ms
 ----------------------------------------------------------------------------
-Website: www.fiata.com
+Website: www.asiaone.com
+Depth (distance from the starting pages): 1
+Number of Pages Discovered: 10
+Number of Pages Failed to Discover: 0
+Number of Linked Sites: 80
+Min. Response Time: 9.90557ms
+Max. Response Time: 800.481ms
+Average Response Time: 160.816ms
+----------------------------------------------------------------------------
+Website: www.shape.com.sg
+Depth (distance from the starting pages): 0
+Number of Pages Discovered: 10
+Number of Pages Failed to Discover: 0
+Number of Linked Sites: 14
+Min. Response Time: 39.4441ms
+Max. Response Time: 2827.63ms
+Average Response Time: 931.164ms
+----------------------------------------------------------------------------
+Website: www.st701.com
 Depth (distance from the starting pages): 2
-Number of Pages Discovered: 1
+Number of Pages Discovered: 2
+Number of Pages Failed to Discover: 0
+Number of Linked Sites: 1
+Min. Response Time: 16.6932ms
+Max. Response Time: 18.3014ms
+Average Response Time: 17.4973ms
+----------------------------------------------------------------------------
+Website: getrewards.fedex.com
+Depth (distance from the starting pages): 1
+Number of Pages Discovered: 10
 Number of Pages Failed to Discover: 0
 Number of Linked Sites: 0
-Min. Response Time: 1037.71ms
-Max. Response Time: 1037.71ms
-Average Response Time: 1037.71ms
+Min. Response Time: 434.042ms
+Max. Response Time: 512.443ms
+Average Response Time: 463.473ms
 ----------------------------------------------------------------------------
-Website: www.sla.org.sg
-Depth (distance from the starting pages): 2
-Number of Pages Discovered: 1
-Number of Pages Failed to Discover: 0
-Number of Linked Sites: 0
-Min. Response Time: 103.89ms
-Max. Response Time: 103.89ms
-Average Response Time: 103.89ms
-----------------------------------------------------------------------------
-Website: lifestyle.omy.sg
-Depth (distance from the starting pages): 2
-Number of Pages Discovered: 1
-Number of Pages Failed to Discover: 0
-Number of Linked Sites: 0
-Min. Response Time: 3024.1ms
-Max. Response Time: 3024.1ms
-Average Response Time: 3024.1ms
-----------------------------------------------------------------------------
-Website: www.iata.org
-Depth (distance from the starting pages): 2
-Number of Pages Discovered: 1
-Number of Pages Failed to Discover: 0
-Number of Linked Sites: 0
-Min. Response Time: 120.458ms
-Max. Response Time: 120.458ms
-Average Response Time: 120.458ms
-----------------------------------------------------------------------------
-Website: connect.sgcarmart.com
-Depth (distance from the starting pages): 2
-Number of Pages Discovered: 1
-Number of Pages Failed to Discover: 0
-Number of Linked Sites: 7
-Min. Response Time: 92.5885ms
-Max. Response Time: 92.5885ms
-Average Response Time: 92.5885ms
-----------------------------------------------------------------------------
-Website: www.allscript.com
+Website: appleid.apple.com
 Depth (distance from the starting pages): 2
 Number of Pages Discovered: 10
 Number of Pages Failed to Discover: 0
-Number of Linked Sites: 4
-Min. Response Time: 44.6871ms
-Max. Response Time: 450.757ms
-Average Response Time: 168.865ms
+Number of Linked Sites: 0
+Min. Response Time: 367.725ms
+Max. Response Time: 409.189ms
+Average Response Time: 380.597ms
 ----------------------------------------------------------------------------
-Website: www.stai.com.sg
+Website: www.beritaharian.sg
+Depth (distance from the starting pages): 2
+Number of Pages Discovered: 4
+Number of Pages Failed to Discover: 0
+Number of Linked Sites: 11
+Min. Response Time: 64.8732ms
+Max. Response Time: 462.488ms
+Average Response Time: 300.877ms
+----------------------------------------------------------------------------
+Website: fonts.googleapis.com
+Depth (distance from the starting pages): 2
+Number of Pages Discovered: 1
+Number of Pages Failed to Discover: 0
+Number of Linked Sites: 0
+Min. Response Time: 19.6643ms
+Max. Response Time: 19.6643ms
+Average Response Time: 19.6643ms
+----------------------------------------------------------------------------
+Website: acc-reg.sphdigital.com
 Depth (distance from the starting pages): 2
 Number of Pages Discovered: 1
 Number of Pages Failed to Discover: 0
 Number of Linked Sites: 1
-Min. Response Time: 219.007ms
-Max. Response Time: 219.007ms
-Average Response Time: 219.007ms
+Min. Response Time: 44.8738ms
+Max. Response Time: 44.8738ms
+Average Response Time: 44.8738ms
 ----------------------------------------------------------------------------
-Website: sgcarmart.com
+Website: transport.asiaone.com
 Depth (distance from the starting pages): 2
+Number of Pages Discovered: 10
+Number of Pages Failed to Discover: 0
+Number of Linked Sites: 17
+Min. Response Time: 31.9307ms
+Max. Response Time: 65.9912ms
+Average Response Time: 49.2586ms
+----------------------------------------------------------------------------
+Website: www.icloud.com
+Depth (distance from the starting pages): 2
+Number of Pages Discovered: 10
+Number of Pages Failed to Discover: 0
+Number of Linked Sites: 0
+Min. Response Time: 596.925ms
+Max. Response Time: 643.998ms
+Average Response Time: 626.242ms
+----------------------------------------------------------------------------
+Website: www.fastjobs.sg
+Depth (distance from the starting pages): 2
+Number of Pages Discovered: 10
+Number of Pages Failed to Discover: 0
+Number of Linked Sites: 9
+Min. Response Time: 16.4616ms
+Max. Response Time: 544.639ms
+Average Response Time: 383.203ms
+----------------------------------------------------------------------------
+Website: instagram.com
+Depth (distance from the starting pages): 1
 Number of Pages Discovered: 1
 Number of Pages Failed to Discover: 0
 Number of Linked Sites: 1
-Min. Response Time: 55.1996ms
-Max. Response Time: 55.1996ms
-Average Response Time: 55.1996ms
-----------------------------------------------------------------------------
-Website: www.tyrepac.com.sg
-Depth (distance from the starting pages): 2
-Number of Pages Discovered: 1
-Number of Pages Failed to Discover: 0
-Number of Linked Sites: 6
-Min. Response Time: 45.2729ms
-Max. Response Time: 45.2729ms
-Average Response Time: 45.2729ms
-----------------------------------------------------------------------------
-Website: www.tyrepac.com
-Depth (distance from the starting pages): 2
-Number of Pages Discovered: 1
-Number of Pages Failed to Discover: 0
-Number of Linked Sites: 5
-Min. Response Time: 52.3095ms
-Max. Response Time: 52.3095ms
-Average Response Time: 52.3095ms
-----------------------------------------------------------------------------
-Website: bs.serving-sys.com
-Depth (distance from the starting pages): 2
-Number of Pages Discovered: 1
-Number of Pages Failed to Discover: 0
-Number of Linked Sites: 1
-Min. Response Time: 105.959ms
-Max. Response Time: 105.959ms
-Average Response Time: 105.959ms
-----------------------------------------------------------------------------
-Website: web.conversion-hub.com
-Depth (distance from the starting pages): 2
-Number of Pages Discovered: 1
-Number of Pages Failed to Discover: 0
-Number of Linked Sites: 1
-Min. Response Time: 129.556ms
-Max. Response Time: 129.556ms
-Average Response Time: 129.556ms
-----------------------------------------------------------------------------
-Website: sla.org.sg
-Depth (distance from the starting pages): 2
-Number of Pages Discovered: 6
-Number of Pages Failed to Discover: 0
-Number of Linked Sites: 25
-Min. Response Time: 118.455ms
-Max. Response Time: 414.387ms
-Average Response Time: 199.14ms
+Min. Response Time: 516.32ms
+Max. Response Time: 516.32ms
+Average Response Time: 516.32ms
 ----------------------------------------------------------------------------
 Website: campaign.herworldplus.com
 Depth (distance from the starting pages): 1
 Number of Pages Discovered: 1
 Number of Pages Failed to Discover: 0
 Number of Linked Sites: 0
-Min. Response Time: 43.4337ms
-Max. Response Time: 43.4337ms
-Average Response Time: 43.4337ms
+Min. Response Time: 31.1237ms
+Max. Response Time: 31.1237ms
+Average Response Time: 31.1237ms
 ----------------------------------------------------------------------------
-Website: eat.omy.sg
+Website: www.omigo.com.sg
+Depth (distance from the starting pages): 1
+Number of Pages Discovered: 10
+Number of Pages Failed to Discover: 0
+Number of Linked Sites: 2
+Min. Response Time: 55.1783ms
+Max. Response Time: 3190.64ms
+Average Response Time: 1066.7ms
+----------------------------------------------------------------------------
+Website: news.asiaone.com
 Depth (distance from the starting pages): 2
-Number of Pages Discovered: 1
+Number of Pages Discovered: 10
 Number of Pages Failed to Discover: 0
-Number of Linked Sites: 0
-Min. Response Time: 3546.04ms
-Max. Response Time: 3546.04ms
-Average Response Time: 3546.04ms
+Number of Linked Sites: 28
+Min. Response Time: 53.3943ms
+Max. Response Time: 811.761ms
+Average Response Time: 220.033ms
 ----------------------------------------------------------------------------
-Website: instagram.com
-Depth (distance from the starting pages): 1
-Number of Pages Discovered: 1
+Website: www.w3.org
+Depth (distance from the starting pages): 4
+Number of Pages Discovered: 10
 Number of Pages Failed to Discover: 0
-Number of Linked Sites: 0
-Min. Response Time: 526.86ms
-Max. Response Time: 526.86ms
-Average Response Time: 526.86ms
+Number of Linked Sites: 16
+Min. Response Time: 541.63ms
+Max. Response Time: 1615ms
+Average Response Time: 871.49ms
 ----------------------------------------------------------------------------
-Website: campaign.shape.com.sg
-Depth (distance from the starting pages): 1
-Number of Pages Discovered: 1
+Website: epaper.beritaharian.sg
+Depth (distance from the starting pages): 3
+Number of Pages Discovered: 2
 Number of Pages Failed to Discover: 0
-Number of Linked Sites: 0
-Min. Response Time: 37.5021ms
-Max. Response Time: 37.5021ms
-Average Response Time: 37.5021ms
+Number of Linked Sites: 1
+Min. Response Time: 32.1272ms
+Max. Response Time: 130.544ms
+Average Response Time: 81.3357ms
 ----------------------------------------------------------------------------
-Website: www.instget.com
-Depth (distance from the starting pages): 1
+Website: pubads.g.doubleclick.net
+Depth (distance from the starting pages): 3
 Number of Pages Discovered: 1
 Number of Pages Failed to Discover: 0
 Number of Linked Sites: 1
-Min. Response Time: 606.251ms
-Max. Response Time: 606.251ms
-Average Response Time: 606.251ms
+Min. Response Time: 21.9333ms
+Max. Response Time: 21.9333ms
+Average Response Time: 21.9333ms
 ----------------------------------------------------------------------------
-Website: sph.com.sg
-Depth (distance from the starting pages): 1
-Number of Pages Discovered: 2
+Website: sphreg.asiaone.com
+Depth (distance from the starting pages): 3
+Number of Pages Discovered: 1
 Number of Pages Failed to Discover: 0
-Number of Linked Sites: 29
-Min. Response Time: 258.619ms
-Max. Response Time: 505.93ms
-Average Response Time: 382.274ms
+Number of Linked Sites: 1
+Min. Response Time: 17.7467ms
+Max. Response Time: 17.7467ms
+Average Response Time: 17.7467ms
+----------------------------------------------------------------------------
+Website: www.sphmagazines.com.sg
+Depth (distance from the starting pages): 2
+Number of Pages Discovered: 10
+Number of Pages Failed to Discover: 0
+Number of Linked Sites: 30
+Min. Response Time: 27.4847ms
+Max. Response Time: 3027.73ms
+Average Response Time: 582.805ms
 ----------------------------------------------------------------------------
 Website: women.asiaone.com
 Depth (distance from the starting pages): 2
 Number of Pages Discovered: 10
 Number of Pages Failed to Discover: 0
-Number of Linked Sites: 21
-Min. Response Time: 29.9806ms
-Max. Response Time: 1399.16ms
-Average Response Time: 617.648ms
-----------------------------------------------------------------------------
-Website: www.conversion-hub.com
-Depth (distance from the starting pages): 2
-Number of Pages Discovered: 1
-Number of Pages Failed to Discover: 0
-Number of Linked Sites: 0
-Min. Response Time: 2367.1ms
-Max. Response Time: 2367.1ms
-Average Response Time: 2367.1ms
+Number of Linked Sites: 28
+Min. Response Time: 40.3796ms
+Max. Response Time: 593.523ms
+Average Response Time: 251.683ms
 ----------------------------------------------------------------------------
 Website: customcritical.fedex.com
 Depth (distance from the starting pages): 1
 Number of Pages Discovered: 10
 Number of Pages Failed to Discover: 0
-Number of Linked Sites: 19
-Min. Response Time: 1020.86ms
-Max. Response Time: 1235.32ms
-Average Response Time: 1059.48ms
+Number of Linked Sites: 24
+Min. Response Time: 1010.92ms
+Max. Response Time: 1208.39ms
+Average Response Time: 1037.58ms
 ----------------------------------------------------------------------------
-Website: kiss92.sg
-Depth (distance from the starting pages): 2
-Number of Pages Discovered: 1
+Website: employer.fastjobs.sg
+Depth (distance from the starting pages): 3
+Number of Pages Discovered: 2
 Number of Pages Failed to Discover: 0
 Number of Linked Sites: 8
-Min. Response Time: 458.295ms
-Max. Response Time: 458.295ms
-Average Response Time: 458.295ms
+Min. Response Time: 255.986ms
+Max. Response Time: 348.951ms
+Average Response Time: 302.469ms
 ----------------------------------------------------------------------------
-Website: www.soshiok.com
-Depth (distance from the starting pages): 2
+Website: blog.fastjobs.sg
+Depth (distance from the starting pages): 3
 Number of Pages Discovered: 10
 Number of Pages Failed to Discover: 0
-Number of Linked Sites: 21
-Min. Response Time: 34.0602ms
-Max. Response Time: 1714.59ms
-Average Response Time: 842.774ms
+Number of Linked Sites: 29
+Min. Response Time: 16.1021ms
+Max. Response Time: 201.779ms
+Average Response Time: 93.3441ms
 ----------------------------------------------------------------------------
-Website: www.mycarforum.com
-Depth (distance from the starting pages): 2
+Website: www.edx.org
+Depth (distance from the starting pages): 5
 Number of Pages Discovered: 10
-Number of Pages Failed to Discover: 0
-Number of Linked Sites: 9
-Min. Response Time: 36.8367ms
-Max. Response Time: 1075.36ms
-Average Response Time: 383.439ms
-----------------------------------------------------------------------------
-Website: about.van.fedex.com
-Depth (distance from the starting pages): 1
-Number of Pages Discovered: 10
-Number of Pages Failed to Discover: 0
-Number of Linked Sites: 35
-Min. Response Time: 780.22ms
-Max. Response Time: 1689.82ms
-Average Response Time: 1113.16ms
-----------------------------------------------------------------------------
-Website: www.femalemag.com.sg
-Depth (distance from the starting pages): 2
-Number of Pages Discovered: 10
-Number of Pages Failed to Discover: 0
-Number of Linked Sites: 16
-Min. Response Time: 14.1632ms
-Max. Response Time: 448.607ms
-Average Response Time: 288.485ms
-----------------------------------------------------------------------------
-Website: www.homeanddecor.com.sg
-Depth (distance from the starting pages): 2
-Number of Pages Discovered: 10
-Number of Pages Failed to Discover: 0
-Number of Linked Sites: 36
-Min. Response Time: 98.1514ms
-Max. Response Time: 1177.52ms
-Average Response Time: 315.8ms
-----------------------------------------------------------------------------
-Website: www.mediacorp.sg
-Depth (distance from the starting pages): 2
-Number of Pages Discovered: 1
 Number of Pages Failed to Discover: 0
 Number of Linked Sites: 0
-Min. Response Time: 291.128ms
-Max. Response Time: 291.128ms
-Average Response Time: 291.128ms
+Min. Response Time: 13.4239ms
+Max. Response Time: 40.9107ms
+Average Response Time: 22.5602ms
 ----------------------------------------------------------------------------
-Website: video.omy.sg
-Depth (distance from the starting pages): 2
-Number of Pages Discovered: 10
+Website: sph.com.sg
+Depth (distance from the starting pages): 3
+Number of Pages Discovered: 2
 Number of Pages Failed to Discover: 0
-Number of Linked Sites: 33
-Min. Response Time: 36.2452ms
-Max. Response Time: 8042.31ms
-Average Response Time: 893.15ms
+Number of Linked Sites: 32
+Min. Response Time: 261.944ms
+Max. Response Time: 522.501ms
+Average Response Time: 392.222ms
 ----------------------------------------------------------------------------
-Website: www.fede64x.com
-Depth (distance from the starting pages): 2
+Website: testthewebforward.org
+Depth (distance from the starting pages): 5
+Number of Pages Discovered: 1
+Number of Pages Failed to Discover: 0
+Number of Linked Sites: 2
+Min. Response Time: 487.476ms
+Max. Response Time: 487.476ms
+Average Response Time: 487.476ms
+----------------------------------------------------------------------------
+Website: acc-auth.sphdigital.com:443
+Depth (distance from the starting pages): 4
 Number of Pages Discovered: 0
 Number of Pages Failed to Discover: 1
 Number of Linked Sites: 0
@@ -1520,98 +728,305 @@ Min. Response Time: N.A
 Max. Response Time: N.A
 Average Response Time: N.A
 ----------------------------------------------------------------------------
-Website: www.channelnewsasia.com
-Depth (distance from the starting pages): 2
+Website: yandex.com
+Depth (distance from the starting pages): 5
+Number of Pages Discovered: 2
+Number of Pages Failed to Discover: 0
+Number of Linked Sites: 0
+Min. Response Time: 750.913ms
+Max. Response Time: 1041.81ms
+Average Response Time: 896.363ms
+----------------------------------------------------------------------------
+Website: www.herworldplus.com
+Depth (distance from the starting pages): 1
 Number of Pages Discovered: 10
 Number of Pages Failed to Discover: 0
-Number of Linked Sites: 18
-Min. Response Time: 32.6053ms
-Max. Response Time: 171.111ms
-Average Response Time: 96.567ms
+Number of Linked Sites: 30
+Min. Response Time: 32.7416ms
+Max. Response Time: 1925.89ms
+Average Response Time: 1065.85ms
 ----------------------------------------------------------------------------
-Website: oo.blue.fedex.com
+Website: pages.sphmagazines.com.sg
+Depth (distance from the starting pages): 3
+Number of Pages Discovered: 1
+Number of Pages Failed to Discover: 0
+Number of Linked Sites: 0
+Min. Response Time: 38.8585ms
+Max. Response Time: 38.8585ms
+Average Response Time: 38.8585ms
+----------------------------------------------------------------------------
+Website: w:ww.sphmagazines.com.sg
+Depth (distance from the starting pages): 3
+Number of Pages Discovered: 0
+Number of Pages Failed to Discover: 1
+Number of Linked Sites: 0
+Min. Response Time: N.A
+Max. Response Time: N.A
+Average Response Time: N.A
+----------------------------------------------------------------------------
+Website: gmpg.org
+Depth (distance from the starting pages): 3
+Number of Pages Discovered: 1
+Number of Pages Failed to Discover: 0
+Number of Linked Sites: 0
+Min. Response Time: 346.326ms
+Max. Response Time: 346.326ms
+Average Response Time: 346.326ms
+----------------------------------------------------------------------------
+Website: www.doubleclickbygoogle.com
+Depth (distance from the starting pages): 4
+Number of Pages Discovered: 10
+Number of Pages Failed to Discover: 0
+Number of Linked Sites: 0
+Min. Response Time: 226.915ms
+Max. Response Time: 273.002ms
+Average Response Time: 243.212ms
+----------------------------------------------------------------------------
+Website: www.fedexfreight.fedex.com
 Depth (distance from the starting pages): 2
 Number of Pages Discovered: 1
 Number of Pages Failed to Discover: 0
 Number of Linked Sites: 0
-Min. Response Time: 728.965ms
-Max. Response Time: 728.965ms
-Average Response Time: 728.965ms
+Min. Response Time: 475.068ms
+Max. Response Time: 475.068ms
+Average Response Time: 475.068ms
 ----------------------------------------------------------------------------
-Website: www.thefinder.com.sg
-Depth (distance from the starting pages): 2
+Website: www.sphdigital.com
+Depth (distance from the starting pages): 3
 Number of Pages Discovered: 10
 Number of Pages Failed to Discover: 0
 Number of Linked Sites: 12
-Min. Response Time: 47.1764ms
-Max. Response Time: 839.846ms
-Average Response Time: 314.192ms
+Min. Response Time: 20.6731ms
+Max. Response Time: 1588.26ms
+Average Response Time: 481.215ms
 ----------------------------------------------------------------------------
-Website: www.fedex.com
+Website: eepurl.com
+Depth (distance from the starting pages): 4
+Number of Pages Discovered: 2
+Number of Pages Failed to Discover: 0
+Number of Linked Sites: 3
+Min. Response Time: 46.3829ms
+Max. Response Time: 330.959ms
+Average Response Time: 188.671ms
+----------------------------------------------------------------------------
+Website: www.trezo.sg
 Depth (distance from the starting pages): 2
 Number of Pages Discovered: 10
 Number of Pages Failed to Discover: 0
-Number of Linked Sites: 23
-Min. Response Time: 275.483ms
-Max. Response Time: 446.066ms
-Average Response Time: 312.849ms
+Number of Linked Sites: 8
+Min. Response Time: 643.149ms
+Max. Response Time: 1253.75ms
+Average Response Time: 972.811ms
 ----------------------------------------------------------------------------
-Website: www.womensweekly.com.sg
-Depth (distance from the starting pages): 2
-Number of Pages Discovered: 10
-Number of Pages Failed to Discover: 0
-Number of Linked Sites: 12
-Min. Response Time: 25.0493ms
-Max. Response Time: 1984.24ms
-Average Response Time: 509.082ms
-----------------------------------------------------------------------------
-Website: www.cleo.com.sg
-Depth (distance from the starting pages): 2
-Number of Pages Discovered: 10
-Number of Pages Failed to Discover: 0
-Number of Linked Sites: 12
-Min. Response Time: 191.127ms
-Max. Response Time: 947.232ms
-Average Response Time: 799.211ms
-----------------------------------------------------------------------------
-Website: www.harpersbazaar.com.sg
+Website: www.homeanddecor.com.sg
 Depth (distance from the starting pages): 2
 Number of Pages Discovered: 10
 Number of Pages Failed to Discover: 0
 Number of Linked Sites: 24
-Min. Response Time: 18.3071ms
-Max. Response Time: 1437.34ms
-Average Response Time: 853.085ms
+Min. Response Time: 69.6455ms
+Max. Response Time: 113.323ms
+Average Response Time: 85.0143ms
+----------------------------------------------------------------------------
+Website: sphdigital.us12.list-manage.com
+Depth (distance from the starting pages): 4
+Number of Pages Discovered: 1
+Number of Pages Failed to Discover: 0
+Number of Linked Sites: 1
+Min. Response Time: 335.684ms
+Max. Response Time: 335.684ms
+Average Response Time: 335.684ms
 ----------------------------------------------------------------------------
 Website: www.youngparents.com.sg
 Depth (distance from the starting pages): 2
 Number of Pages Discovered: 10
 Number of Pages Failed to Discover: 0
-Number of Linked Sites: 26
-Min. Response Time: 113.538ms
-Max. Response Time: 3061.52ms
-Average Response Time: 1099.19ms
+Number of Linked Sites: 21
+Min. Response Time: 89.3979ms
+Max. Response Time: 186.489ms
+Average Response Time: 131.09ms
 ----------------------------------------------------------------------------
-Website: www.shape.com.sg
-Depth (distance from the starting pages): 2
+Website: sphreg.st701.com
+Depth (distance from the starting pages): 3
+Number of Pages Discovered: 1
+Number of Pages Failed to Discover: 0
+Number of Linked Sites: 1
+Min. Response Time: 14.4974ms
+Max. Response Time: 14.4974ms
+Average Response Time: 14.4974ms
+----------------------------------------------------------------------------
+Website: specials.beritaharian.sg
+Depth (distance from the starting pages): 3
 Number of Pages Discovered: 10
 Number of Pages Failed to Discover: 0
-Number of Linked Sites: 14
-Min. Response Time: 31.9411ms
-Max. Response Time: 4444.2ms
-Average Response Time: 1202.09ms
+Number of Linked Sites: 18
+Min. Response Time: 26.3247ms
+Max. Response Time: 1865.12ms
+Average Response Time: 567.618ms
 ----------------------------------------------------------------------------
 Website: www.ftn.fedex.com
 Depth (distance from the starting pages): 2
 Number of Pages Discovered: 10
 Number of Pages Failed to Discover: 0
 Number of Linked Sites: 17
-Min. Response Time: 1244.2ms
-Max. Response Time: 2905.1ms
-Average Response Time: 1476.45ms
+Min. Response Time: 1207.6ms
+Max. Response Time: 1299.34ms
+Average Response Time: 1262.78ms
+----------------------------------------------------------------------------
+Website: shauninman.com
+Depth (distance from the starting pages): 5
+Number of Pages Discovered: 1
+Number of Pages Failed to Discover: 0
+Number of Linked Sites: 0
+Min. Response Time: 702.878ms
+Max. Response Time: 702.878ms
+Average Response Time: 702.878ms
+----------------------------------------------------------------------------
+Website: mailchimp.com
+Depth (distance from the starting pages): 5
+Number of Pages Discovered: 2
+Number of Pages Failed to Discover: 0
+Number of Linked Sites: 7
+Min. Response Time: 298.183ms
+Max. Response Time: 509.549ms
+Average Response Time: 403.866ms
+----------------------------------------------------------------------------
+Website: www.instget.com
+Depth (distance from the starting pages): 3
+Number of Pages Discovered: 1
+Number of Pages Failed to Discover: 0
+Number of Linked Sites: 1
+Min. Response Time: 648.447ms
+Max. Response Time: 648.447ms
+Average Response Time: 648.447ms
+----------------------------------------------------------------------------
+Website: browsehappy.com
+Depth (distance from the starting pages): 4
+Number of Pages Discovered: 2
+Number of Pages Failed to Discover: 0
+Number of Linked Sites: 2
+Min. Response Time: 778.931ms
+Max. Response Time: 1031.19ms
+Average Response Time: 905.058ms
+----------------------------------------------------------------------------
+Website: www.mailchimp.com
+Depth (distance from the starting pages): 5
+Number of Pages Discovered: 1
+Number of Pages Failed to Discover: 0
+Number of Linked Sites: 1
+Min. Response Time: 2624.17ms
+Max. Response Time: 2624.17ms
+Average Response Time: 2624.17ms
+----------------------------------------------------------------------------
+Website: www.femalemag.com.sg
+Depth (distance from the starting pages): 2
+Number of Pages Discovered: 10
+Number of Pages Failed to Discover: 0
+Number of Linked Sites: 19
+Min. Response Time: 13.3034ms
+Max. Response Time: 613.099ms
+Average Response Time: 393.84ms
+----------------------------------------------------------------------------
+Website: www.femalegp.sg
+Depth (distance from the starting pages): 3
+Number of Pages Discovered: 2
+Number of Pages Failed to Discover: 0
+Number of Linked Sites: 4
+Min. Response Time: 26.9845ms
+Max. Response Time: 35.3531ms
+Average Response Time: 31.1688ms
+----------------------------------------------------------------------------
+Website: www.twitter.com
+Depth (distance from the starting pages): 4
+Number of Pages Discovered: 10
+Number of Pages Failed to Discover: 0
+Number of Linked Sites: 0
+Min. Response Time: 354.17ms
+Max. Response Time: 376.113ms
+Average Response Time: 364.718ms
+----------------------------------------------------------------------------
+Website: blog.trezo.sg
+Depth (distance from the starting pages): 3
+Number of Pages Discovered: 10
+Number of Pages Failed to Discover: 0
+Number of Linked Sites: 34
+Min. Response Time: 35.6145ms
+Max. Response Time: 821.713ms
+Average Response Time: 437.093ms
+----------------------------------------------------------------------------
+Website: kimage.com.sg
+Depth (distance from the starting pages): 4
+Number of Pages Discovered: 10
+Number of Pages Failed to Discover: 0
+Number of Linked Sites: 6
+Min. Response Time: 53.4844ms
+Max. Response Time: 1318.85ms
+Average Response Time: 254.023ms
+----------------------------------------------------------------------------
+Website: www.kimage.com.sg
+Depth (distance from the starting pages): 5
+Number of Pages Discovered: 1
+Number of Pages Failed to Discover: 0
+Number of Linked Sites: 1
+Min. Response Time: 124.351ms
+Max. Response Time: 124.351ms
+Average Response Time: 124.351ms
+----------------------------------------------------------------------------
+Website: logw348.ati-host.net
+Depth (distance from the starting pages): 4
+Number of Pages Discovered: 1
+Number of Pages Failed to Discover: 0
+Number of Linked Sites: 0
+Min. Response Time: 555.041ms
+Max. Response Time: 555.041ms
+Average Response Time: 555.041ms
+----------------------------------------------------------------------------
+Website: app.appsflyer.com
+Depth (distance from the starting pages): 4
+Number of Pages Discovered: 1
+Number of Pages Failed to Discover: 0
+Number of Linked Sites: 0
+Min. Response Time: 698.48ms
+Max. Response Time: 698.48ms
+Average Response Time: 698.48ms
+----------------------------------------------------------------------------
+Website: go.onelink.me
+Depth (distance from the starting pages): 4
+Number of Pages Discovered: 1
+Number of Pages Failed to Discover: 0
+Number of Linked Sites: 0
+Min. Response Time: 703.369ms
+Max. Response Time: 703.369ms
+Average Response Time: 703.369ms
+----------------------------------------------------------------------------
+Website: www.meetup.com
+Depth (distance from the starting pages): 5
+Number of Pages Discovered: 10
+Number of Pages Failed to Discover: 0
+Number of Linked Sites: 4
+Min. Response Time: 548.59ms
+Max. Response Time: 1655.24ms
+Average Response Time: 1026.01ms
+----------------------------------------------------------------------------
+Website: www.w3devcampus.com
+Depth (distance from the starting pages): 5
+Number of Pages Discovered: 10
+Number of Pages Failed to Discover: 0
+Number of Linked Sites: 21
+Min. Response Time: 706.987ms
+Max. Response Time: 8078.89ms
+Average Response Time: 1975.99ms
 ----------------------------------------------------------------------------
 Website: doc-sg.cool-find.com
 Depth (distance from the starting pages): 1
+Number of Pages Discovered: 0
+Number of Pages Failed to Discover: 1
+Number of Linked Sites: 0
+Min. Response Time: N.A
+Max. Response Time: N.A
+Average Response Time: N.A
+----------------------------------------------------------------------------
+Website: www.leixure.com
+Depth (distance from the starting pages): 5
 Number of Pages Discovered: 0
 Number of Pages Failed to Discover: 1
 Number of Linked Sites: 0

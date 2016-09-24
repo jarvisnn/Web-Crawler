@@ -92,9 +92,12 @@ Config readConfigFile() {
 // Initialize the Crawler. 
 //---------------------------------------------------------------------------
 void initialize() {
-	crawlerState.threadsCount = 0; // Set # of threads to 0
+	// Set threads count to 0
+	crawlerState.threadsCount = 0; 
+	// Add starting urls
 	for (auto url : config.startUrls) {
 		crawlerState.pendingSites.push(make_pair(getHostnameFromUrl(url), 0));
+		crawlerState.discoveredSites[getHostnameFromUrl(url)] = true;
 	}
 }
 

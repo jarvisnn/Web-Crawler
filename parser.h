@@ -10,7 +10,6 @@
 
 using namespace std;
 
-string _trim(string str);
 string getHostnameFromUrl(string url);
 string getHostPathFromUrl(string url);
 

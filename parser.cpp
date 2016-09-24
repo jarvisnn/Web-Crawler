@@ -12,6 +12,7 @@ using namespace std;
 
 //---------------------------------------------------------------------------
 // Extract the Hostname from the URL
+// Assume the url is in the correct format, no extra space at the beginning
 //---------------------------------------------------------------------------
 string getHostnameFromUrl(string url) {
     int offset = 0;
@@ -26,6 +27,7 @@ string getHostnameFromUrl(string url) {
 
 //---------------------------------------------------------------------------
 // Extract the Host Path from the URL
+// Assume the url is in the correct format, no extra space at the beginning
 //---------------------------------------------------------------------------
 string getHostPathFromUrl(string url) {
     int offset = 0;
@@ -46,13 +48,14 @@ string getHostPathFromUrl(string url) {
 // Extract all the URLS in the given text (HTTP raw response). Return a vector of <hostname, path>
 //---------------------------------------------------------------------------
 vector< pair<string, string> > extractUrls(string httpText) {
+	// Reformat, remove the special characters first.
 	string httpRaw = reformatHttpResponse(httpText);
 
-	// URL's possible starting, only consider href case.
-	const string urlStart[] = {"href=\""};
+	// URL's possible starting, only consider href, http:// and https:// case.
+	const string urlStart[] = {"href=\"", "href = \"", "http://", "https://"};
 
 	// URL's possible ending, includes #, ? for not counting the hash & query.
-	const string urlEndChars = "\"#? ";
+	const string urlEndChars = "\"#?, ";
 
 	// Variable for result.
 	vector< pair<string, string> > extractedUrls;
@@ -86,8 +89,9 @@ vector< pair<string, string> > extractUrls(string httpText) {
 }
 
 //---------------------------------------------------------------------------
-// To verify a url. We ignore css, js, pdf files, etc.
-// Also we allow only some domains, as of the location limitation.
+// To verify a url, in case the fetched url is wrongs (in JS code, texts, etc.)
+// We ignore css, js, pdf files, etc; for saving time from sending meanless requests.
+// We also allow only some domains, as of the location limitation.
 //---------------------------------------------------------------------------
 bool verifyUrl(string url) {
 	string allowedDomains[] = {".com", ".sg", ".net", ".co", ".org", ".me"};		
@@ -110,7 +114,7 @@ bool verifyUrl(string url) {
 // This function is to reformat the data, only allow a specific set of characters.
 //---------------------------------------------------------------------------
 string reformatHttpResponse(string text) {
-	string allowedChrs = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz01233456789./\":#?+-_= ";
+	string allowedChrs = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz01233456789.,/\":#?+-_= ";
 	map<char, char> mm;
 	for (char ch : allowedChrs) mm[ch] = ch;
 
