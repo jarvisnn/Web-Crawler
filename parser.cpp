@@ -94,6 +94,9 @@ vector< pair<string, string> > extractUrls(string httpText) {
 // We also allow only some domains, as of the location limitation.
 //---------------------------------------------------------------------------
 bool verifyUrl(string url) {
+	// Special case, no domain for same domain pages.
+	if (url == "") return true;
+
 	string allowedDomains[] = {".com", ".sg", ".net", ".co", ".org", ".me"};		
 	bool flag = true;
 	for (auto type : allowedDomains) if (url.find(type) != string::npos) {
