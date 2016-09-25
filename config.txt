@@ -4,13 +4,13 @@ depthLimit 6
 pagesLimit 10
 linkedSitesLimit 6
 startUrls 10
-http://www.straitstimes.com/
+http://www.straitstimes.com
 http://www.nus.edu.sg
-https://www.gov.sg
-https://www.wikipedia.org
+http://www.todayonline.com
+http://www.tnp.sg
 http://www.singpost.com
 http://www.channelnewsasia.com
 http://www.fedex.com
-https://www.allscript.com
+http://www.bbc.com
 http://www.shape.com.sg
 http://www.esq.sg

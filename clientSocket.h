@@ -13,14 +13,13 @@
 using namespace std;
 
 typedef struct {
-    string hostname;                // hostname, base url
-    double totalResponseTime = 0;
-    double averageResponseTime = -1;
-    double minResponseTime = -1;
-    double maxResponseTime = -1;
-    int pagesDiscovered = 0;        // number of pages/requested
-    int pagesFailed = 0;            // number of pages that are failed to discover
-    vector<string> linkedSites;     // linked sites
+    string hostname;                                    // hostname, base url
+    double averageResponseTime = -1;                    /////
+    double minResponseTime = -1;                        // response time stats
+    double maxResponseTime = -1;                        /////
+    int numberOfPagesFailed = 0;                        // number of pages that are failed to discover
+    vector<string> linkedSites;                         // linked sites
+    vector< pair<string, double> > discoveredPages;     // list of pages that are discovered, with response time
 } SiteStats;
 
 class ClientSocket {

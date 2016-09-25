@@ -15,6 +15,9 @@ string getHostPathFromUrl(string url);
 
 vector< pair<string, string> > extractUrls(string httpRaw);
 bool verifyUrl(string url);
+bool verifyDomain(string url);
+bool verifyType(string url);
+bool hasSuffix(string str, string suffix);
 string reformatHttpResponse(string text);
 
 #endif

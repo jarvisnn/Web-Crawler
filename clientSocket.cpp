@@ -19,6 +19,7 @@ ClientSocket::ClientSocket(string hostname, int port, int pagesLimit, int crawlD
     this->hostname = hostname;
     this->port = port;
     this->pendingPages.push("/");
+    this->discoveredPages["/"] = true;
     this->crawlDelay = crawlDelay;
     this->discoveredLinkedSites.clear();
 }
@@ -87,7 +88,7 @@ SiteStats ClientSocket::startDiscovering() {
     stats.hostname = hostname;
 
     // While still have pages to discover & not exceed the max-page limit for a site.
-    while (!pendingPages.empty() && (pagesLimit == -1 || stats.pagesDiscovered < pagesLimit)) {
+    while (!pendingPages.empty() && (pagesLimit == -1 || int(stats.discoveredPages.size()) < pagesLimit)) {
         // Next page to fetch
         string path = pendingPages.front();
         pendingPages.pop();
@@ -95,15 +96,12 @@ SiteStats ClientSocket::startDiscovering() {
         // Sleep for crawlDelay if this is not the first request
         if (path != "/") usleep(crawlDelay);
 
-        // First mark this page as discovered
-        discoveredPages[path] = true;
-
         // Clock Start
         high_resolution_clock::time_point startTime = high_resolution_clock::now();
 
         // Cannot create connection, simply ignore.
         if (this->startConnection() != "") {
-            stats.pagesFailed++;
+            stats.numberOfPagesFailed++;
             continue;
         }
 
@@ -111,7 +109,7 @@ SiteStats ClientSocket::startDiscovering() {
         string send_data = createHttpRequest(hostname, path);
         if (send(sock, send_data.c_str(), strlen(send_data.c_str()), 0) < 0) {
             // Send failed. Note it and continue.
-            stats.pagesFailed++;
+            stats.numberOfPagesFailed++;
             continue;
         }
         
@@ -119,9 +117,19 @@ SiteStats ClientSocket::startDiscovering() {
         char recv_data[1024];
         int totalBytesRead = 0;
         string httpResponse = "";
+        double responseTime = -1;
         while (true) {
             bzero(recv_data, sizeof(recv_data));
             int bytesRead = recv(sock, recv_data, sizeof(recv_data), 0);
+
+            // Get response time when first receive
+            if (responseTime < -0.5) {
+                // Clock End
+                high_resolution_clock::time_point endTime = high_resolution_clock::now();
+                responseTime = duration<double, milli>(endTime - startTime).count();
+            }
+
+            // Check Data Received.
             if (bytesRead > 0) {
                 string ss(recv_data);
                 httpResponse += ss;
@@ -134,14 +142,8 @@ SiteStats ClientSocket::startDiscovering() {
         // Close connection. Ingore the error as data is received anyway.
         this->closeConnection();
 
-        // Clock End
-        high_resolution_clock::time_point endTime = high_resolution_clock::now();
-
-        // Save Stats abt Response Time
-        double responseTime = duration<double, milli>(endTime - startTime).count();
-        stats.totalResponseTime += responseTime;
-        stats.minResponseTime = stats.minResponseTime < 0 ? responseTime : min(stats.minResponseTime, responseTime);
-        stats.maxResponseTime = stats.maxResponseTime < 0 ? responseTime : max(stats.maxResponseTime, responseTime);
+        // Save to discoveredPages
+        stats.discoveredPages.push_back(make_pair(hostname+path, responseTime));
 
         // Extract URLs from the received data.
         vector< pair<string, string> > extractedUrls = extractUrls(httpResponse);
@@ -150,6 +152,7 @@ SiteStats ClientSocket::startDiscovering() {
                 // Case 1: In the same host. Check if the path is discovered
                 if (!discoveredPages[url.second]) {
                     pendingPages.push(url.second);
+                    discoveredPages[url.second] = true;
                 }
             } else {
                 // Case 2: In a different host, add to linkedSites
@@ -159,12 +162,17 @@ SiteStats ClientSocket::startDiscovering() {
                 }
             }
         }
-
-        // Increase the number of pages discovered.
-        stats.pagesDiscovered++;
     }
-        
-    if (stats.pagesDiscovered) 
-        stats.averageResponseTime = stats.totalResponseTime / stats.pagesDiscovered;
+
+    // Calculate Stats
+    double totalResponseTime = 0;
+    for (auto page : stats.discoveredPages) {
+        totalResponseTime += page.second;
+        stats.minResponseTime = stats.minResponseTime < 0 ? page.second : min(stats.minResponseTime, page.second);
+        stats.maxResponseTime = stats.maxResponseTime < 0 ? page.second : max(stats.maxResponseTime, page.second);
+    }
+    if (!stats.discoveredPages.empty()) 
+        stats.averageResponseTime = totalResponseTime / stats.discoveredPages.size();
+
     return stats;
 }

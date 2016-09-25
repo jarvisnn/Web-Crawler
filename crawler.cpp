@@ -15,6 +15,7 @@
 #include <thread>
 #include <mutex>
 #include <map>
+#include <iomanip>
 #include <condition_variable>
 
 using namespace std;
@@ -140,8 +141,8 @@ void startCrawler(string hostname, int currentDepth, CrawlerState &crawlerState)
 	cout << "----------------------------------------------------------------------------" << endl; 
 	cout << "Website: " << stats.hostname << endl;
 	cout << "Depth (distance from the starting pages): " << currentDepth << endl;
-	cout << "Number of Pages Discovered: " << stats.pagesDiscovered << endl;
-	cout << "Number of Pages Failed to Discover: " << stats.pagesFailed << endl;
+	cout << "Number of Pages Discovered: " << stats.discoveredPages.size() << endl;
+	cout << "Number of Pages Failed to Discover: " << stats.numberOfPagesFailed << endl;
 	cout << "Number of Linked Sites: " << stats.linkedSites.size() << endl;
 	if (stats.minResponseTime < 0) cout << "Min. Response Time: N.A" << endl;
 		else cout << "Min. Response Time: " << stats.minResponseTime << "ms" << endl;
@@ -149,6 +150,13 @@ void startCrawler(string hostname, int currentDepth, CrawlerState &crawlerState)
 		else cout << "Max. Response Time: " << stats.maxResponseTime << "ms" << endl;
 	if (stats.averageResponseTime < 0) cout << "Average Response Time: N.A" << endl;
 		else cout << "Average Response Time: " << stats.averageResponseTime << "ms" << endl;
+	if (!stats.discoveredPages.empty()) {
+		cout << "List of visited pages:" << endl;
+		cout << "    " << setw(15) << "Response Time" << "    " << "URL" << endl;
+		for (auto page : stats.discoveredPages) {
+			cout << "    " << setw(13) << page.second << "ms" << "    " << page.first << endl;
+		}
+	}
 
 	// Only discover more if haven't reached the depthLimit
 	if (currentDepth < config.depthLimit) {

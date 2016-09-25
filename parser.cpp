@@ -75,8 +75,8 @@ vector< pair<string, string> > extractUrls(string httpText) {
 			string url = httpRaw.substr(startPos, endPos - startPos);
 
 			// Verify and Add to the list
-			string urlDomain = getHostnameFromUrl(url);
-			if (verifyUrl(url) && verifyUrl(urlDomain)) {
+			if (verifyUrl(url)) {
+				string urlDomain = getHostnameFromUrl(url);
 				extractedUrls.push_back(make_pair(urlDomain, getHostPathFromUrl(url)));
 			}
 
@@ -94,22 +94,41 @@ vector< pair<string, string> > extractUrls(string httpText) {
 // We also allow only some domains, as of the location limitation.
 //---------------------------------------------------------------------------
 bool verifyUrl(string url) {
-	// Special case, no domain for same domain pages.
-	if (url == "") return true;
+	// Get domain
+	string urlDomain = getHostnameFromUrl(url);
 
+	// Verify domain. Case urlDomain="" -> page in the same host, checking domain is exempted.
+	if (urlDomain != "" && !verifyDomain(urlDomain)) return false;
+	
+	// Verify file type
+	if (!verifyType(url)) return false;
+
+	// Verify special cases
+	if (url.find("mailto:") != string::npos) return false;		// Case email-url, ignore it.
+
+	return true;
+}
+bool verifyType(string url) {
+	string forbiddenTypes[] = {".css", ".js", ".pdf", ".png", ".jpeg", ".jpg", ".ico"};						
+	for (auto type : forbiddenTypes) 
+		if (url.find(type) != string::npos) return false;				// Case special file types.
+	return true;
+}
+bool verifyDomain(string url) {
 	string allowedDomains[] = {".com", ".sg", ".net", ".co", ".org", ".me"};		
 	bool flag = true;
-	for (auto type : allowedDomains) if (url.find(type) != string::npos) {
-		flag = false; break;									// check domain
-	}
-	if (flag) return false;
+	for (auto type : allowedDomains) 
+		if (hasSuffix(url, type)) { // Check if contain allowed domain as the suffix
+			flag = false; break;									
+		}														
+	return !flag;
+}
 
-	string forbiddenTypes[] = {".css", ".js", ".pdf", ".png", ".jpeg", ".jpg"};						
-	for (auto type : forbiddenTypes) 
-		if (url.find(type) != string::npos) return false;		// Case special file types.
-	if (url.find('.') == string::npos) return false;			// Case full-stop, double check.
-	if (url.find("mailto:") != string::npos) return false;		// Case email-url, ignore it.
-	return true;
+//---------------------------------------------------------------------------
+// Util function, to check if a string ends with some specific suffix.
+//---------------------------------------------------------------------------
+bool hasSuffix(string str, string suffix) {
+    return str.size() >= suffix.size() && str.compare(str.size() - suffix.size(), suffix.size(), suffix) == 0;
 }
 
 //---------------------------------------------------------------------------
@@ -120,6 +139,7 @@ string reformatHttpResponse(string text) {
 	string allowedChrs = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz01233456789.,/\":#?+-_= ";
 	map<char, char> mm;
 	for (char ch : allowedChrs) mm[ch] = ch;
+	mm['\n'] = ' ';
 
 	string res = "";
 	for (char ch : text) {
