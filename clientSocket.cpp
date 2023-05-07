@@ -7,6 +7,8 @@
 #include <netdb.h>
 #include <unistd.h>
 #include <chrono>
+#include <cstring>
+#include <strings.h>
 
 using namespace std;
 using namespace std::chrono;
