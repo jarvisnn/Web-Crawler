@@ -65,7 +65,7 @@ vector< pair<string, string> > extractUrls(string httpText) {
 		while (true) {
 			// Find the starting point of first possible URL
 			int startPos = httpRaw.find(startText);
-			if (startPos == string::npos) break;
+			if (startPos == int(string::npos)) break;
 			startPos += startText.length();
 
 			// Find the ending point of first possible URL
