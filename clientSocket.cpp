@@ -7,7 +7,7 @@
 #include <netdb.h>
 #include <unistd.h>
 #include <chrono>
-
+#include <cstring>
 using namespace std;
 using namespace std::chrono;
 
@@ -43,11 +43,11 @@ string ClientSocket::startConnection() {
     if ((sock = socket(AF_INET, SOCK_STREAM, 0)) == -1) {
         return "Cannot create socket!";
     }
-    bzero(&server_addr, sizeof(server_addr));
+    memset(&server_addr,0, sizeof(server_addr));
     server_addr.sin_family = AF_INET;     
     server_addr.sin_port = htons(port);
     server_addr.sin_addr = *((struct in_addr *)host->h_addr);
-    bzero(&(server_addr.sin_zero),8); 
+    memset(&(server_addr.sin_zero),0,8); 
 
     // Connect to server
     if (connect(sock, (struct sockaddr *)&server_addr, sizeof(struct sockaddr)) == -1) {
@@ -119,7 +119,7 @@ SiteStats ClientSocket::startDiscovering() {
         string httpResponse = "";
         double responseTime = -1;
         while (true) {
-            bzero(recv_data, sizeof(recv_data));
+            memset(recv_data,0, sizeof(recv_data));
             int bytesRead = recv(sock, recv_data, sizeof(recv_data), 0);
 
             // Get response time when first receive
